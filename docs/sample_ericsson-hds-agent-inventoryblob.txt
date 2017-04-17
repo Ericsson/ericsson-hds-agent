@@ -1,0 +1,5236 @@
+{
+    "sysinfo.bmc-info": {
+        "Entries": [
+            {
+                "Category": "bmc",
+                "Details": [
+                    {
+                        "Tag": "Device ID",
+                        "Value": "32"
+                    },
+                    {
+                        "Tag": "Device Revision",
+                        "Value": "0"
+                    },
+                    {
+                        "Tag": "Device SDRs",
+                        "Value": "supported"
+                    },
+                    {
+                        "Tag": "Firmware Revision",
+                        "Value": "1.97"
+                    },
+                    {
+                        "Tag": "Device Available",
+                        "Value": "yes (normal operation)"
+                    },
+                    {
+                        "Tag": "IPMI Version",
+                        "Value": "2.0"
+                    },
+                    {
+                        "Tag": "Sensor Device",
+                        "Value": "supported"
+                    },
+                    {
+                        "Tag": "SDR Repository Device",
+                        "Value": "supported"
+                    },
+                    {
+                        "Tag": "SEL Device",
+                        "Value": "supported"
+                    },
+                    {
+                        "Tag": "FRU Inventory Device",
+                        "Value": "supported"
+                    },
+                    {
+                        "Tag": "IPMB Event Receiver",
+                        "Value": "supported"
+                    },
+                    {
+                        "Tag": "IPMB Event Generator",
+                        "Value": "unsupported"
+                    },
+                    {
+                        "Tag": "Bridge",
+                        "Value": "supported"
+                    },
+                    {
+                        "Tag": "Chassis Device",
+                        "Value": "supported"
+                    },
+                    {
+                        "Tag": "Manufacturer ID",
+                        "Value": "Dell Inc. (674)"
+                    },
+                    {
+                        "Tag": "Product ID",
+                        "Value": "256"
+                    },
+                    {
+                        "Tag": "Auxiliary Firmware Revision Information",
+                        "Value": "00000200h"
+                    },
+                    {
+                        "Tag": "GUID",
+                        "Value": "314e4b4f-c0b7-5480-1053-004b4c4c4544"
+                    },
+                    {
+                        "Tag": "System Firmware Version",
+                        "Value": "6.4.0"
+                    },
+                    {
+                        "Tag": "System Name",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Primary Operating System Name",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Operating System Name",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Channel Number",
+                        "Value": "0"
+                    },
+                    {
+                        "Tag": "Medium Type",
+                        "Value": "IPMB (I2C)"
+                    },
+                    {
+                        "Tag": "Protocol Type",
+                        "Value": "IPMB-1.0"
+                    },
+                    {
+                        "Tag": "Active Session Count",
+                        "Value": "0"
+                    },
+                    {
+                        "Tag": "Session Support",
+                        "Value": "session-less"
+                    },
+                    {
+                        "Tag": "Vendor ID",
+                        "Value": "Intelligent Platform Management Interface forum (7154)"
+                    },
+                    {
+                        "Tag": "Channel Number",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "Medium Type",
+                        "Value": "802.3 LAN"
+                    },
+                    {
+                        "Tag": "Protocol Type",
+                        "Value": "IPMB-1.0"
+                    },
+                    {
+                        "Tag": "Active Session Count",
+                        "Value": "0"
+                    },
+                    {
+                        "Tag": "Session Support",
+                        "Value": "multi-session"
+                    },
+                    {
+                        "Tag": "Vendor ID",
+                        "Value": "Intelligent Platform Management Interface forum (7154)"
+                    },
+                    {
+                        "Tag": "Channel Number",
+                        "Value": "2"
+                    },
+                    {
+                        "Tag": "Medium Type",
+                        "Value": "Asynch. Serial/Modem (RS-232)"
+                    },
+                    {
+                        "Tag": "Protocol Type",
+                        "Value": "IPMB-1.0"
+                    },
+                    {
+                        "Tag": "Active Session Count",
+                        "Value": "0"
+                    },
+                    {
+                        "Tag": "Session Support",
+                        "Value": "single-session"
+                    },
+                    {
+                        "Tag": "Vendor ID",
+                        "Value": "Intelligent Platform Management Interface forum (7154)"
+                    },
+                    {
+                        "Tag": "Channel Number",
+                        "Value": "3"
+                    },
+                    {
+                        "Tag": "Medium Type",
+                        "Value": "System Interface (KCS, SMIC, or BT)"
+                    },
+                    {
+                        "Tag": "Protocol Type",
+                        "Value": "KCS"
+                    },
+                    {
+                        "Tag": "Active Session Count",
+                        "Value": "0"
+                    },
+                    {
+                        "Tag": "Session Support",
+                        "Value": "session-less"
+                    },
+                    {
+                        "Tag": "Vendor ID",
+                        "Value": "Intelligent Platform Management Interface forum (7154)"
+                    },
+                    {
+                        "Tag": "Channel Number",
+                        "Value": "4"
+                    },
+                    {
+                        "Tag": "Medium Type",
+                        "Value": "System Interface (KCS, SMIC, or BT)"
+                    },
+                    {
+                        "Tag": "Protocol Type",
+                        "Value": "KCS"
+                    },
+                    {
+                        "Tag": "Active Session Count",
+                        "Value": "0"
+                    },
+                    {
+                        "Tag": "Session Support",
+                        "Value": "session-less"
+                    },
+                    {
+                        "Tag": "Vendor ID",
+                        "Value": "Intelligent Platform Management Interface forum (7154)"
+                    }
+                ]
+            }
+        ]
+    },
+    "sysinfo.disk": {
+        "Entries": [
+            {
+                "Category": "/dev/bus/2",
+                "Details": [
+                    {
+                        "Tag": "Model Family",
+                        "Value": "Samsung based SSDs"
+                    },
+                    {
+                        "Tag": "Device Model",
+                        "Value": "Samsung SSD 840 EVO 120GB"
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": "S1D5NSAF301051J"
+                    },
+                    {
+                        "Tag": "LU WWN Device Id",
+                        "Value": "5 002538 8a02978bd"
+                    },
+                    {
+                        "Tag": "Firmware Version",
+                        "Value": "EXT0BB6Q"
+                    },
+                    {
+                        "Tag": "User Capacity",
+                        "Value": "120,034,123,776 bytes [120 GB]"
+                    },
+                    {
+                        "Tag": "Sector Size",
+                        "Value": "512 bytes logical/physical"
+                    },
+                    {
+                        "Tag": "Rotation Rate",
+                        "Value": "Solid State Device"
+                    },
+                    {
+                        "Tag": "Device is",
+                        "Value": "In smartctl database [for details use: -P show]"
+                    },
+                    {
+                        "Tag": "ATA Version is",
+                        "Value": "ACS-2, ATA8-ACS T13/1699-D revision 4c"
+                    },
+                    {
+                        "Tag": "SATA Version is",
+                        "Value": "SATA 3.1, 6.0 Gb/s (current: 6.0 Gb/s)"
+                    },
+                    {
+                        "Tag": "SMART support is",
+                        "Value": "Available - device has SMART capability."
+                    },
+                    {
+                        "Tag": "SMART support is",
+                        "Value": "Enabled"
+                    }
+                ]
+            },
+            {
+                "Category": "/dev/bus/2",
+                "Details": [
+                    {
+                        "Tag": "Model Family",
+                        "Value": "Samsung based SSDs"
+                    },
+                    {
+                        "Tag": "Device Model",
+                        "Value": "Samsung SSD 840 EVO 120GB"
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": "S1D5NSBF381306R"
+                    },
+                    {
+                        "Tag": "LU WWN Device Id",
+                        "Value": "5 002538 8a02e4f2c"
+                    },
+                    {
+                        "Tag": "Firmware Version",
+                        "Value": "EXT0BB6Q"
+                    },
+                    {
+                        "Tag": "User Capacity",
+                        "Value": "120,034,123,776 bytes [120 GB]"
+                    },
+                    {
+                        "Tag": "Sector Size",
+                        "Value": "512 bytes logical/physical"
+                    },
+                    {
+                        "Tag": "Rotation Rate",
+                        "Value": "Solid State Device"
+                    },
+                    {
+                        "Tag": "Device is",
+                        "Value": "In smartctl database [for details use: -P show]"
+                    },
+                    {
+                        "Tag": "ATA Version is",
+                        "Value": "ACS-2, ATA8-ACS T13/1699-D revision 4c"
+                    },
+                    {
+                        "Tag": "SATA Version is",
+                        "Value": "SATA 3.1, 6.0 Gb/s (current: 6.0 Gb/s)"
+                    },
+                    {
+                        "Tag": "SMART support is",
+                        "Value": "Available - device has SMART capability."
+                    },
+                    {
+                        "Tag": "SMART support is",
+                        "Value": "Enabled"
+                    }
+                ]
+            },
+            {
+                "Category": "/dev/bus/2",
+                "Details": [
+                    {
+                        "Tag": "Model Family",
+                        "Value": "Samsung based SSDs"
+                    },
+                    {
+                        "Tag": "Device Model",
+                        "Value": "Samsung SSD 840 EVO 120GB"
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": "S1D5NSAF386360K"
+                    },
+                    {
+                        "Tag": "LU WWN Device Id",
+                        "Value": "5 002538 8a02c2af5"
+                    },
+                    {
+                        "Tag": "Firmware Version",
+                        "Value": "EXT0BB6Q"
+                    },
+                    {
+                        "Tag": "User Capacity",
+                        "Value": "120,034,123,776 bytes [120 GB]"
+                    },
+                    {
+                        "Tag": "Sector Size",
+                        "Value": "512 bytes logical/physical"
+                    },
+                    {
+                        "Tag": "Rotation Rate",
+                        "Value": "Solid State Device"
+                    },
+                    {
+                        "Tag": "Device is",
+                        "Value": "In smartctl database [for details use: -P show]"
+                    },
+                    {
+                        "Tag": "ATA Version is",
+                        "Value": "ACS-2, ATA8-ACS T13/1699-D revision 4c"
+                    },
+                    {
+                        "Tag": "SATA Version is",
+                        "Value": "SATA 3.1, 6.0 Gb/s (current: 6.0 Gb/s)"
+                    },
+                    {
+                        "Tag": "SMART support is",
+                        "Value": "Available - device has SMART capability."
+                    },
+                    {
+                        "Tag": "SMART support is",
+                        "Value": "Enabled"
+                    }
+                ]
+            },
+            {
+                "Category": "/dev/bus/2",
+                "Details": [
+                    {
+                        "Tag": "Model Family",
+                        "Value": "Samsung based SSDs"
+                    },
+                    {
+                        "Tag": "Device Model",
+                        "Value": "Samsung SSD 840 EVO 120GB"
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": "S1D5NSBF430808J"
+                    },
+                    {
+                        "Tag": "LU WWN Device Id",
+                        "Value": "5 002538 8a03a1566"
+                    },
+                    {
+                        "Tag": "Firmware Version",
+                        "Value": "EXT0BB6Q"
+                    },
+                    {
+                        "Tag": "User Capacity",
+                        "Value": "120,034,123,776 bytes [120 GB]"
+                    },
+                    {
+                        "Tag": "Sector Size",
+                        "Value": "512 bytes logical/physical"
+                    },
+                    {
+                        "Tag": "Rotation Rate",
+                        "Value": "Solid State Device"
+                    },
+                    {
+                        "Tag": "Device is",
+                        "Value": "In smartctl database [for details use: -P show]"
+                    },
+                    {
+                        "Tag": "ATA Version is",
+                        "Value": "ACS-2, ATA8-ACS T13/1699-D revision 4c"
+                    },
+                    {
+                        "Tag": "SATA Version is",
+                        "Value": "SATA 3.1, 6.0 Gb/s (current: 6.0 Gb/s)"
+                    },
+                    {
+                        "Tag": "SMART support is",
+                        "Value": "Available - device has SMART capability."
+                    },
+                    {
+                        "Tag": "SMART support is",
+                        "Value": "Enabled"
+                    }
+                ]
+            },
+            {
+                "Category": "/dev/sda",
+                "Details": [
+                    {
+                        "Tag": "Name",
+                        "Value": "sda"
+                    },
+                    {
+                        "Tag": "SysfsPath",
+                        "Value": "/sys/devices/pci0000:00/0000:00:1c.0/0000:03:00.0/host2/target2:2:0/2:2:0:0/block/sda"
+                    },
+                    {
+                        "Tag": "MajMin",
+                        "Value": "8:0"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "disk"
+                    },
+                    {
+                        "Tag": "Size",
+                        "Value": "358361333760"
+                    },
+                    {
+                        "Tag": "Removable",
+                        "Value": "false"
+                    },
+                    {
+                        "Tag": "ReadOnly",
+                        "Value": "false"
+                    },
+                    {
+                        "Tag": "Revision",
+                        "Value": "2.10"
+                    },
+                    {
+                        "Tag": "Vendor",
+                        "Value": "DELL"
+                    },
+                    {
+                        "Tag": "Product",
+                        "Value": "PERC H700"
+                    },
+                    {
+                        "Tag": "LogicalBlockSize",
+                        "Value": "512"
+                    },
+                    {
+                        "Tag": "StorageType",
+                        "Value": "HDD"
+                    }
+                ]
+            },
+            {
+                "Category": "SCSI Host",
+                "Details": [
+                    {
+                        "Tag": "Name",
+                        "Value": "host0"
+                    },
+                    {
+                        "Tag": "Module Name",
+                        "Value": "ata_piix"
+                    },
+                    {
+                        "Tag": "Unique ID",
+                        "Value": "1"
+                    }
+                ]
+            },
+            {
+                "Category": "SCSI Host",
+                "Details": [
+                    {
+                        "Tag": "Name",
+                        "Value": "host1"
+                    },
+                    {
+                        "Tag": "Module Name",
+                        "Value": "ata_piix"
+                    },
+                    {
+                        "Tag": "Unique ID",
+                        "Value": "2"
+                    }
+                ]
+            },
+            {
+                "Category": "SCSI Host",
+                "Details": [
+                    {
+                        "Tag": "Name",
+                        "Value": "host2"
+                    },
+                    {
+                        "Tag": "Module Name",
+                        "Value": "megaraid_sas"
+                    },
+                    {
+                        "Tag": "Unique ID",
+                        "Value": "768"
+                    }
+                ]
+            },
+            {
+                "Category": "SCSI Host",
+                "Details": [
+                    {
+                        "Tag": "Name",
+                        "Value": "host6"
+                    },
+                    {
+                        "Tag": "Unique ID",
+                        "Value": "0"
+                    },
+                    {
+                        "Tag": "Module Name",
+                        "Value": "usb-storage"
+                    }
+                ]
+            },
+            {
+                "Category": "SCSI Host",
+                "Details": [
+                    {
+                        "Tag": "Name",
+                        "Value": "host7"
+                    },
+                    {
+                        "Tag": "Module Name",
+                        "Value": "usb-storage"
+                    },
+                    {
+                        "Tag": "Unique ID",
+                        "Value": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    "sysinfo.ecc": {
+        "Entries": []
+    },
+    "sysinfo.ipmi-tool": {
+        "Entries": [
+            {
+                "Category": "bmc",
+                "Details": [
+                    {
+                        "Tag": "Device ID",
+                        "Value": "32"
+                    },
+                    {
+                        "Tag": "Device Revision",
+                        "Value": "0"
+                    },
+                    {
+                        "Tag": "Firmware Revision",
+                        "Value": "1.97"
+                    },
+                    {
+                        "Tag": "IPMI Version",
+                        "Value": "2.0"
+                    },
+                    {
+                        "Tag": "Manufacturer ID",
+                        "Value": "674"
+                    },
+                    {
+                        "Tag": "Manufacturer Name",
+                        "Value": "DELL Inc"
+                    },
+                    {
+                        "Tag": "Product ID",
+                        "Value": "256 (0x0100)"
+                    },
+                    {
+                        "Tag": "Product Name",
+                        "Value": "Unknown (0x100)"
+                    },
+                    {
+                        "Tag": "Device Available",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "Provides Device SDRs",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "Set in Progress",
+                        "Value": "Set Complete"
+                    },
+                    {
+                        "Tag": "Auth Type Support",
+                        "Value": "NONE MD2 MD5 PASSWORD"
+                    },
+                    {
+                        "Tag": "Auth Type Enable",
+                        "Value": "Callback : MD2 MD5"
+                    },
+                    {
+                        "Tag": "IP Address Source",
+                        "Value": "Static Address"
+                    },
+                    {
+                        "Tag": "IP Address",
+                        "Value": "10.20.32.62"
+                    },
+                    {
+                        "Tag": "Subnet Mask",
+                        "Value": "255.255.252.0"
+                    },
+                    {
+                        "Tag": "MAC Address",
+                        "Value": "f0:4d:a2:03:06:f2"
+                    },
+                    {
+                        "Tag": "SNMP Community String",
+                        "Value": "public"
+                    },
+                    {
+                        "Tag": "IP Header",
+                        "Value": "TTL=0x40 Flags=0x40 Precedence=0x00 TOS=0x10"
+                    },
+                    {
+                        "Tag": "BMC ARP Control",
+                        "Value": "ARP Responses Enabled, Gratuitous ARP Disabled"
+                    },
+                    {
+                        "Tag": "Default Gateway IP",
+                        "Value": "10.20.32.1"
+                    },
+                    {
+                        "Tag": "Default Gateway MAC",
+                        "Value": "00:00:00:00:00:00"
+                    },
+                    {
+                        "Tag": "Backup Gateway IP",
+                        "Value": "0.0.0.0"
+                    },
+                    {
+                        "Tag": "Backup Gateway MAC",
+                        "Value": "00:00:00:00:00:00"
+                    },
+                    {
+                        "Tag": "802.1q VLAN ID",
+                        "Value": "Disabled"
+                    },
+                    {
+                        "Tag": "802.1q VLAN Priority",
+                        "Value": "0"
+                    },
+                    {
+                        "Tag": "RMCP+ Cipher Suites",
+                        "Value": "0,1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+                    },
+                    {
+                        "Tag": "Cipher Suite Priv Max",
+                        "Value": "Xaaaaaaaaaaaaaa"
+                    }
+                ]
+            }
+        ]
+    },
+    "sysinfo.nic": {
+        "Entries": [
+            {
+                "Category": "docker0",
+                "Details": [
+                    {
+                        "Tag": "ifindex",
+                        "Value": "11"
+                    },
+                    {
+                        "Tag": "iflink",
+                        "Value": "11"
+                    },
+                    {
+                        "Tag": "hardwareAddress",
+                        "Value": "02:42:4d:cf:e8:07"
+                    },
+                    {
+                        "Tag": "hardwareType",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "pciBus",
+                        "Value": "virtual/net/docker0"
+                    },
+                    {
+                        "Tag": "firmwareRevision",
+                        "Value": "N/A"
+                    },
+                    {
+                        "Tag": "speed",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "ipv4Address",
+                        "Value": "172.17.0.1/16"
+                    },
+                    {
+                        "Tag": "ipv6Address",
+                        "Value": "fe80::42:4dff:fecf:e807/64"
+                    }
+                ]
+            },
+            {
+                "Category": "eth0",
+                "Details": [
+                    {
+                        "Tag": "ifindex",
+                        "Value": "2"
+                    },
+                    {
+                        "Tag": "iflink",
+                        "Value": "2"
+                    },
+                    {
+                        "Tag": "hardwareAddress",
+                        "Value": "f0:4d:a2:03:06:ea"
+                    },
+                    {
+                        "Tag": "hardwareType",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "pciBus",
+                        "Value": "pci0000:00/0000:00:01.0/0000:01:00.0/net/eth0"
+                    },
+                    {
+                        "Tag": "driver",
+                        "Value": "bnx2"
+                    },
+                    {
+                        "Tag": "firmwareRevision",
+                        "Value": "7.8.16 bc 7.4.0 NCSI 2.0.13"
+                    },
+                    {
+                        "Tag": "speed",
+                        "Value": "1000Mb/s"
+                    },
+                    {
+                        "Tag": "ipv4Address",
+                        "Value": "10.20.32.72/22"
+                    },
+                    {
+                        "Tag": "ipv6Address",
+                        "Value": "fe80::f24d:a2ff:fe03:6ea/64"
+                    }
+                ]
+            },
+            {
+                "Category": "eth1",
+                "Details": [
+                    {
+                        "Tag": "ifindex",
+                        "Value": "3"
+                    },
+                    {
+                        "Tag": "iflink",
+                        "Value": "3"
+                    },
+                    {
+                        "Tag": "hardwareAddress",
+                        "Value": "f0:4d:a2:03:06:ec"
+                    },
+                    {
+                        "Tag": "hardwareType",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "pciBus",
+                        "Value": "pci0000:00/0000:00:01.0/0000:01:00.1/net/eth1"
+                    },
+                    {
+                        "Tag": "driver",
+                        "Value": "bnx2"
+                    },
+                    {
+                        "Tag": "firmwareRevision",
+                        "Value": "7.8.16 bc 7.4.0 NCSI 2.0.13"
+                    },
+                    {
+                        "Tag": "speed",
+                        "Value": "Unknown!"
+                    }
+                ]
+            },
+            {
+                "Category": "eth2",
+                "Details": [
+                    {
+                        "Tag": "ifindex",
+                        "Value": "4"
+                    },
+                    {
+                        "Tag": "iflink",
+                        "Value": "4"
+                    },
+                    {
+                        "Tag": "hardwareAddress",
+                        "Value": "f0:4d:a2:03:06:ee"
+                    },
+                    {
+                        "Tag": "hardwareType",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "pciBus",
+                        "Value": "pci0000:00/0000:00:03.0/0000:02:00.0/net/eth2"
+                    },
+                    {
+                        "Tag": "driver",
+                        "Value": "bnx2"
+                    },
+                    {
+                        "Tag": "firmwareRevision",
+                        "Value": "7.8.16 bc 7.4.0 NCSI 2.0.13"
+                    },
+                    {
+                        "Tag": "speed",
+                        "Value": "Unknown!"
+                    }
+                ]
+            },
+            {
+                "Category": "eth3",
+                "Details": [
+                    {
+                        "Tag": "ifindex",
+                        "Value": "5"
+                    },
+                    {
+                        "Tag": "iflink",
+                        "Value": "5"
+                    },
+                    {
+                        "Tag": "hardwareAddress",
+                        "Value": "f0:4d:a2:03:06:f0"
+                    },
+                    {
+                        "Tag": "hardwareType",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "pciBus",
+                        "Value": "pci0000:00/0000:00:03.0/0000:02:00.1/net/eth3"
+                    },
+                    {
+                        "Tag": "driver",
+                        "Value": "bnx2"
+                    },
+                    {
+                        "Tag": "firmwareRevision",
+                        "Value": "7.8.16 bc 7.4.0 NCSI 2.0.13"
+                    },
+                    {
+                        "Tag": "speed",
+                        "Value": "Unknown!"
+                    }
+                ]
+            },
+            {
+                "Category": "ovs-system",
+                "Details": [
+                    {
+                        "Tag": "ifindex",
+                        "Value": "6"
+                    },
+                    {
+                        "Tag": "iflink",
+                        "Value": "6"
+                    },
+                    {
+                        "Tag": "hardwareAddress",
+                        "Value": "5a:aa:4b:f6:3b:40"
+                    },
+                    {
+                        "Tag": "hardwareType",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "pciBus",
+                        "Value": "virtual/net/ovs-system"
+                    },
+                    {
+                        "Tag": "firmwareRevision",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "speed",
+                        "Value": ""
+                    }
+                ]
+            },
+            {
+                "Category": "s2-bmc",
+                "Details": [
+                    {
+                        "Tag": "ifindex",
+                        "Value": "9"
+                    },
+                    {
+                        "Tag": "iflink",
+                        "Value": "9"
+                    },
+                    {
+                        "Tag": "hardwareAddress",
+                        "Value": "2a:71:4a:b4:a6:41"
+                    },
+                    {
+                        "Tag": "hardwareType",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "pciBus",
+                        "Value": "virtual/net/s2-bmc"
+                    },
+                    {
+                        "Tag": "firmwareRevision",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "speed",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "ipv6Address",
+                        "Value": "fe80::5419:bcff:fe78:741a/64"
+                    }
+                ]
+            },
+            {
+                "Category": "s2-sw1",
+                "Details": [
+                    {
+                        "Tag": "ifindex",
+                        "Value": "8"
+                    },
+                    {
+                        "Tag": "iflink",
+                        "Value": "8"
+                    },
+                    {
+                        "Tag": "hardwareAddress",
+                        "Value": "72:aa:73:25:60:4f"
+                    },
+                    {
+                        "Tag": "hardwareType",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "pciBus",
+                        "Value": "virtual/net/s2-sw1"
+                    },
+                    {
+                        "Tag": "firmwareRevision",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "speed",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "ipv6Address",
+                        "Value": "fe80::87f:6eff:fe52:2447/64"
+                    }
+                ]
+            },
+            {
+                "Category": "s2-vxlan",
+                "Details": [
+                    {
+                        "Tag": "ifindex",
+                        "Value": "7"
+                    },
+                    {
+                        "Tag": "iflink",
+                        "Value": "7"
+                    },
+                    {
+                        "Tag": "hardwareAddress",
+                        "Value": "46:54:25:07:cc:4a"
+                    },
+                    {
+                        "Tag": "hardwareType",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "pciBus",
+                        "Value": "virtual/net/s2-vxlan"
+                    },
+                    {
+                        "Tag": "firmwareRevision",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "speed",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "ipv6Address",
+                        "Value": "fe80::58b4:8fff:fe60:19e2/64"
+                    }
+                ]
+            },
+            {
+                "Category": "virbr0",
+                "Details": [
+                    {
+                        "Tag": "ifindex",
+                        "Value": "10"
+                    },
+                    {
+                        "Tag": "iflink",
+                        "Value": "10"
+                    },
+                    {
+                        "Tag": "hardwareAddress",
+                        "Value": "42:2f:6e:fa:ec:e2"
+                    },
+                    {
+                        "Tag": "hardwareType",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "pciBus",
+                        "Value": "virtual/net/virbr0"
+                    },
+                    {
+                        "Tag": "firmwareRevision",
+                        "Value": "N/A"
+                    },
+                    {
+                        "Tag": "speed",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "ipv4Address",
+                        "Value": "192.168.122.1/24"
+                    }
+                ]
+            }
+        ]
+    },
+    "sysinfo.pci": {
+        "Entries": [
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "00:00.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation 5500 I/O Hub to ESI Port (rev 13)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "00:01.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "PCIbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation 5520/5500/X58 I/O Hub PCI Express Root Port 1 (rev 13)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "00:03.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "PCIbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation 5520/5500/X58 I/O Hub PCI Express Root Port 3 (rev 13)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "00:07.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "PCIbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation 5520/5500/X58 I/O Hub PCI Express Root Port 7 (rev 13)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "00:09.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "PCIbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation 7500/5520/5500/X58 I/O Hub PCI Express Root Port 9 (rev 13)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "00:14.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "PIC"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "Intel Corporation 7500/5520/5500/X58 I/O Hub System Management Registers (rev 13)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "00:14.1"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "PIC"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "Intel Corporation 7500/5520/5500/X58 I/O Hub GPIO and Scratch Pad Registers (rev 13)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "00:14.2"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "PIC"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "Intel Corporation 7500/5520/5500/X58 I/O Hub Control Status and RAS Registers (rev 13)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "00:1a.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "USBcontroller"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "controller: Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #4 (rev 02)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "00:1a.1"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "USBcontroller"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "controller: Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #5 (rev 02)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "00:1a.7"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "USBcontroller"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "controller: Intel Corporation 82801I (ICH9 Family) USB2 EHCI Controller #2 (rev 02)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "00:1c.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "PCIbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation 82801I (ICH9 Family) PCI Express Port 1 (rev 02)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "00:1d.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "USBcontroller"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "controller: Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "00:1d.1"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "USBcontroller"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "controller: Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #2 (rev 02)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "00:1d.7"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "USBcontroller"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "controller: Intel Corporation 82801I (ICH9 Family) USB2 EHCI Controller #1 (rev 02)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "00:1e.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "PCIbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation 82801 PCI Bridge (rev 92)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "00:1f.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "ISAbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation 82801IB (ICH9) LPC Interface Controller (rev 02)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "00:1f.2"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "IDEinterface"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "interface: Intel Corporation 82801IB (ICH9) 2 port SATA Controller [IDE mode] (rev 02)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "01:00.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Ethernetcontroller"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "controller: Broadcom Corporation NetXtreme II BCM5709 Gigabit Ethernet (rev 20)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "01:00.1"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Ethernetcontroller"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "controller: Broadcom Corporation NetXtreme II BCM5709 Gigabit Ethernet (rev 20)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "02:00.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Ethernetcontroller"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "controller: Broadcom Corporation NetXtreme II BCM5709 Gigabit Ethernet (rev 20)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "02:00.1"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Ethernetcontroller"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "controller: Broadcom Corporation NetXtreme II BCM5709 Gigabit Ethernet (rev 20)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "03:00.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "RAIDbuscontroller"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bus controller: LSI Logic / Symbios Logic MegaRAID SAS 2108 [Liberator] (rev 04)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "06:03.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "VGAcompatiblecontroller"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "compatible controller: Matrox Electronics Systems Ltd. MGA G200eW WPCM450 (rev 0a)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:00.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 QuickPath Architecture Generic Non-Core Registers (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:00.1"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 QuickPath Architecture System Address Decoder (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:02.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 QPI Link 0 (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:02.1"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 QPI Physical 0 (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:02.4"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 QPI Link 1 (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:02.5"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 QPI Physical 1 (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:03.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 Integrated Memory Controller (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:03.1"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 Integrated Memory Controller Target Address Decoder (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:03.2"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 Integrated Memory Controller RAS Registers (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:03.4"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 Integrated Memory Controller Test Registers (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:04.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 Integrated Memory Controller Channel 0 Control Registers (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:04.1"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 Integrated Memory Controller Channel 0 Address Registers (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:04.2"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 Integrated Memory Controller Channel 0 Rank Registers (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:04.3"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 Integrated Memory Controller Channel 0 Thermal Control Registers (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:05.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 Integrated Memory Controller Channel 1 Control Registers (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:05.1"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 Integrated Memory Controller Channel 1 Address Registers (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:05.2"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 Integrated Memory Controller Channel 1 Rank Registers (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:05.3"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 Integrated Memory Controller Channel 1 Thermal Control Registers (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:06.0"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 Integrated Memory Controller Channel 2 Control Registers (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:06.1"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 Integrated Memory Controller Channel 2 Address Registers (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:06.2"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 Integrated Memory Controller Channel 2 Rank Registers (rev 05)"
+                    }
+                ]
+            },
+            {
+                "Category": "PCIInfo",
+                "Details": [
+                    {
+                        "Tag": "Slot",
+                        "Value": "fe:06.3"
+                    },
+                    {
+                        "Tag": "Class",
+                        "Value": "Hostbridge"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "bridge: Intel Corporation Xeon 5500/Core i7 Integrated Memory Controller Channel 2 Thermal Control Registers (rev 05)"
+                    }
+                ]
+            }
+        ]
+    },
+    "sysinfo.proc": {
+        "Entries": [
+            {
+                "Category": "OSVersion",
+                "Details": [
+                    {
+                        "Tag": "Linux version",
+                        "Value": "3.13.0-61-generic (buildd@lgw01-50) (gcc version 4.8.2 (Ubuntu 4.8.2-19ubuntu1) ) #100-Ubuntu SMP Wed Jul 29 11:21:34 UTC 2015"
+                    }
+                ]
+            },
+            {
+                "Category": "partitions",
+                "Details": [
+                    {
+                        "Tag": "Disk Device",
+                        "Value": "sr0"
+                    },
+                    {
+                        "Tag": "Number of Blocks",
+                        "Value": "1048575"
+                    },
+                    {
+                        "Tag": "Disk Device",
+                        "Value": "sda"
+                    },
+                    {
+                        "Tag": "Number of Blocks",
+                        "Value": "349962240"
+                    },
+                    {
+                        "Tag": "Disk Device",
+                        "Value": "sda1"
+                    },
+                    {
+                        "Tag": "Number of Blocks",
+                        "Value": "248832"
+                    },
+                    {
+                        "Tag": "Disk Device",
+                        "Value": "sda2"
+                    },
+                    {
+                        "Tag": "Number of Blocks",
+                        "Value": "1999872"
+                    },
+                    {
+                        "Tag": "Disk Device",
+                        "Value": "sda3"
+                    },
+                    {
+                        "Tag": "Number of Blocks",
+                        "Value": "347711488"
+                    },
+                    {
+                        "Tag": "Disk Device",
+                        "Value": "sr1"
+                    },
+                    {
+                        "Tag": "Number of Blocks",
+                        "Value": "1048575"
+                    }
+                ]
+            },
+            {
+                "Category": "cpuinfo",
+                "Details": [
+                    {
+                        "Tag": "processor",
+                        "Value": "0"
+                    },
+                    {
+                        "Tag": "vendor_id",
+                        "Value": "GenuineIntel"
+                    },
+                    {
+                        "Tag": "cpu family",
+                        "Value": "6"
+                    },
+                    {
+                        "Tag": "model",
+                        "Value": "26"
+                    },
+                    {
+                        "Tag": "model name",
+                        "Value": "Intel(R) Xeon(R) CPU           E5520  @ 2.27GHz"
+                    },
+                    {
+                        "Tag": "stepping",
+                        "Value": "5"
+                    },
+                    {
+                        "Tag": "microcode",
+                        "Value": "0x19"
+                    },
+                    {
+                        "Tag": "cache size",
+                        "Value": "8192 KB"
+                    },
+                    {
+                        "Tag": "physical id",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "siblings",
+                        "Value": "8"
+                    },
+                    {
+                        "Tag": "core id",
+                        "Value": "0"
+                    },
+                    {
+                        "Tag": "cpu cores",
+                        "Value": "4"
+                    },
+                    {
+                        "Tag": "apicid",
+                        "Value": "16"
+                    },
+                    {
+                        "Tag": "initial apicid",
+                        "Value": "16"
+                    },
+                    {
+                        "Tag": "fpu",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "fpu_exception",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "cpuid level",
+                        "Value": "11"
+                    },
+                    {
+                        "Tag": "wp",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "flags",
+                        "Value": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 sse4_2 popcnt lahf_lm ida dtherm tpr_shadow vnmi flexpriority ept vpid"
+                    },
+                    {
+                        "Tag": "clflush size",
+                        "Value": "64"
+                    },
+                    {
+                        "Tag": "cache_alignment",
+                        "Value": "64"
+                    },
+                    {
+                        "Tag": "address sizes",
+                        "Value": "40 bits physical, 48 bits virtual"
+                    },
+                    {
+                        "Tag": "power management",
+                        "Value": ""
+                    }
+                ]
+            },
+            {
+                "Category": "cpuinfo",
+                "Details": [
+                    {
+                        "Tag": "processor",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "vendor_id",
+                        "Value": "GenuineIntel"
+                    },
+                    {
+                        "Tag": "cpu family",
+                        "Value": "6"
+                    },
+                    {
+                        "Tag": "model",
+                        "Value": "26"
+                    },
+                    {
+                        "Tag": "model name",
+                        "Value": "Intel(R) Xeon(R) CPU           E5520  @ 2.27GHz"
+                    },
+                    {
+                        "Tag": "stepping",
+                        "Value": "5"
+                    },
+                    {
+                        "Tag": "microcode",
+                        "Value": "0x19"
+                    },
+                    {
+                        "Tag": "cache size",
+                        "Value": "8192 KB"
+                    },
+                    {
+                        "Tag": "physical id",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "siblings",
+                        "Value": "8"
+                    },
+                    {
+                        "Tag": "core id",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "cpu cores",
+                        "Value": "4"
+                    },
+                    {
+                        "Tag": "apicid",
+                        "Value": "18"
+                    },
+                    {
+                        "Tag": "initial apicid",
+                        "Value": "18"
+                    },
+                    {
+                        "Tag": "fpu",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "fpu_exception",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "cpuid level",
+                        "Value": "11"
+                    },
+                    {
+                        "Tag": "wp",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "flags",
+                        "Value": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 sse4_2 popcnt lahf_lm ida dtherm tpr_shadow vnmi flexpriority ept vpid"
+                    },
+                    {
+                        "Tag": "clflush size",
+                        "Value": "64"
+                    },
+                    {
+                        "Tag": "cache_alignment",
+                        "Value": "64"
+                    },
+                    {
+                        "Tag": "address sizes",
+                        "Value": "40 bits physical, 48 bits virtual"
+                    },
+                    {
+                        "Tag": "power management",
+                        "Value": ""
+                    }
+                ]
+            },
+            {
+                "Category": "cpuinfo",
+                "Details": [
+                    {
+                        "Tag": "processor",
+                        "Value": "2"
+                    },
+                    {
+                        "Tag": "vendor_id",
+                        "Value": "GenuineIntel"
+                    },
+                    {
+                        "Tag": "cpu family",
+                        "Value": "6"
+                    },
+                    {
+                        "Tag": "model",
+                        "Value": "26"
+                    },
+                    {
+                        "Tag": "model name",
+                        "Value": "Intel(R) Xeon(R) CPU           E5520  @ 2.27GHz"
+                    },
+                    {
+                        "Tag": "stepping",
+                        "Value": "5"
+                    },
+                    {
+                        "Tag": "microcode",
+                        "Value": "0x19"
+                    },
+                    {
+                        "Tag": "cache size",
+                        "Value": "8192 KB"
+                    },
+                    {
+                        "Tag": "physical id",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "siblings",
+                        "Value": "8"
+                    },
+                    {
+                        "Tag": "core id",
+                        "Value": "2"
+                    },
+                    {
+                        "Tag": "cpu cores",
+                        "Value": "4"
+                    },
+                    {
+                        "Tag": "apicid",
+                        "Value": "20"
+                    },
+                    {
+                        "Tag": "initial apicid",
+                        "Value": "20"
+                    },
+                    {
+                        "Tag": "fpu",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "fpu_exception",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "cpuid level",
+                        "Value": "11"
+                    },
+                    {
+                        "Tag": "wp",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "flags",
+                        "Value": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 sse4_2 popcnt lahf_lm ida dtherm tpr_shadow vnmi flexpriority ept vpid"
+                    },
+                    {
+                        "Tag": "clflush size",
+                        "Value": "64"
+                    },
+                    {
+                        "Tag": "cache_alignment",
+                        "Value": "64"
+                    },
+                    {
+                        "Tag": "address sizes",
+                        "Value": "40 bits physical, 48 bits virtual"
+                    },
+                    {
+                        "Tag": "power management",
+                        "Value": ""
+                    }
+                ]
+            },
+            {
+                "Category": "cpuinfo",
+                "Details": [
+                    {
+                        "Tag": "processor",
+                        "Value": "3"
+                    },
+                    {
+                        "Tag": "vendor_id",
+                        "Value": "GenuineIntel"
+                    },
+                    {
+                        "Tag": "cpu family",
+                        "Value": "6"
+                    },
+                    {
+                        "Tag": "model",
+                        "Value": "26"
+                    },
+                    {
+                        "Tag": "model name",
+                        "Value": "Intel(R) Xeon(R) CPU           E5520  @ 2.27GHz"
+                    },
+                    {
+                        "Tag": "stepping",
+                        "Value": "5"
+                    },
+                    {
+                        "Tag": "microcode",
+                        "Value": "0x19"
+                    },
+                    {
+                        "Tag": "cache size",
+                        "Value": "8192 KB"
+                    },
+                    {
+                        "Tag": "physical id",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "siblings",
+                        "Value": "8"
+                    },
+                    {
+                        "Tag": "core id",
+                        "Value": "3"
+                    },
+                    {
+                        "Tag": "cpu cores",
+                        "Value": "4"
+                    },
+                    {
+                        "Tag": "apicid",
+                        "Value": "22"
+                    },
+                    {
+                        "Tag": "initial apicid",
+                        "Value": "22"
+                    },
+                    {
+                        "Tag": "fpu",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "fpu_exception",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "cpuid level",
+                        "Value": "11"
+                    },
+                    {
+                        "Tag": "wp",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "flags",
+                        "Value": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 sse4_2 popcnt lahf_lm ida dtherm tpr_shadow vnmi flexpriority ept vpid"
+                    },
+                    {
+                        "Tag": "clflush size",
+                        "Value": "64"
+                    },
+                    {
+                        "Tag": "cache_alignment",
+                        "Value": "64"
+                    },
+                    {
+                        "Tag": "address sizes",
+                        "Value": "40 bits physical, 48 bits virtual"
+                    },
+                    {
+                        "Tag": "power management",
+                        "Value": ""
+                    }
+                ]
+            },
+            {
+                "Category": "cpuinfo",
+                "Details": [
+                    {
+                        "Tag": "processor",
+                        "Value": "4"
+                    },
+                    {
+                        "Tag": "vendor_id",
+                        "Value": "GenuineIntel"
+                    },
+                    {
+                        "Tag": "cpu family",
+                        "Value": "6"
+                    },
+                    {
+                        "Tag": "model",
+                        "Value": "26"
+                    },
+                    {
+                        "Tag": "model name",
+                        "Value": "Intel(R) Xeon(R) CPU           E5520  @ 2.27GHz"
+                    },
+                    {
+                        "Tag": "stepping",
+                        "Value": "5"
+                    },
+                    {
+                        "Tag": "microcode",
+                        "Value": "0x19"
+                    },
+                    {
+                        "Tag": "cache size",
+                        "Value": "8192 KB"
+                    },
+                    {
+                        "Tag": "physical id",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "siblings",
+                        "Value": "8"
+                    },
+                    {
+                        "Tag": "core id",
+                        "Value": "0"
+                    },
+                    {
+                        "Tag": "cpu cores",
+                        "Value": "4"
+                    },
+                    {
+                        "Tag": "apicid",
+                        "Value": "17"
+                    },
+                    {
+                        "Tag": "initial apicid",
+                        "Value": "17"
+                    },
+                    {
+                        "Tag": "fpu",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "fpu_exception",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "cpuid level",
+                        "Value": "11"
+                    },
+                    {
+                        "Tag": "wp",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "flags",
+                        "Value": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 sse4_2 popcnt lahf_lm ida dtherm tpr_shadow vnmi flexpriority ept vpid"
+                    },
+                    {
+                        "Tag": "clflush size",
+                        "Value": "64"
+                    },
+                    {
+                        "Tag": "cache_alignment",
+                        "Value": "64"
+                    },
+                    {
+                        "Tag": "address sizes",
+                        "Value": "40 bits physical, 48 bits virtual"
+                    },
+                    {
+                        "Tag": "power management",
+                        "Value": ""
+                    }
+                ]
+            },
+            {
+                "Category": "cpuinfo",
+                "Details": [
+                    {
+                        "Tag": "processor",
+                        "Value": "5"
+                    },
+                    {
+                        "Tag": "vendor_id",
+                        "Value": "GenuineIntel"
+                    },
+                    {
+                        "Tag": "cpu family",
+                        "Value": "6"
+                    },
+                    {
+                        "Tag": "model",
+                        "Value": "26"
+                    },
+                    {
+                        "Tag": "model name",
+                        "Value": "Intel(R) Xeon(R) CPU           E5520  @ 2.27GHz"
+                    },
+                    {
+                        "Tag": "stepping",
+                        "Value": "5"
+                    },
+                    {
+                        "Tag": "microcode",
+                        "Value": "0x19"
+                    },
+                    {
+                        "Tag": "cache size",
+                        "Value": "8192 KB"
+                    },
+                    {
+                        "Tag": "physical id",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "siblings",
+                        "Value": "8"
+                    },
+                    {
+                        "Tag": "core id",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "cpu cores",
+                        "Value": "4"
+                    },
+                    {
+                        "Tag": "apicid",
+                        "Value": "19"
+                    },
+                    {
+                        "Tag": "initial apicid",
+                        "Value": "19"
+                    },
+                    {
+                        "Tag": "fpu",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "fpu_exception",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "cpuid level",
+                        "Value": "11"
+                    },
+                    {
+                        "Tag": "wp",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "flags",
+                        "Value": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 sse4_2 popcnt lahf_lm ida dtherm tpr_shadow vnmi flexpriority ept vpid"
+                    },
+                    {
+                        "Tag": "clflush size",
+                        "Value": "64"
+                    },
+                    {
+                        "Tag": "cache_alignment",
+                        "Value": "64"
+                    },
+                    {
+                        "Tag": "address sizes",
+                        "Value": "40 bits physical, 48 bits virtual"
+                    },
+                    {
+                        "Tag": "power management",
+                        "Value": ""
+                    }
+                ]
+            },
+            {
+                "Category": "cpuinfo",
+                "Details": [
+                    {
+                        "Tag": "processor",
+                        "Value": "6"
+                    },
+                    {
+                        "Tag": "vendor_id",
+                        "Value": "GenuineIntel"
+                    },
+                    {
+                        "Tag": "cpu family",
+                        "Value": "6"
+                    },
+                    {
+                        "Tag": "model",
+                        "Value": "26"
+                    },
+                    {
+                        "Tag": "model name",
+                        "Value": "Intel(R) Xeon(R) CPU           E5520  @ 2.27GHz"
+                    },
+                    {
+                        "Tag": "stepping",
+                        "Value": "5"
+                    },
+                    {
+                        "Tag": "microcode",
+                        "Value": "0x19"
+                    },
+                    {
+                        "Tag": "cache size",
+                        "Value": "8192 KB"
+                    },
+                    {
+                        "Tag": "physical id",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "siblings",
+                        "Value": "8"
+                    },
+                    {
+                        "Tag": "core id",
+                        "Value": "2"
+                    },
+                    {
+                        "Tag": "cpu cores",
+                        "Value": "4"
+                    },
+                    {
+                        "Tag": "apicid",
+                        "Value": "21"
+                    },
+                    {
+                        "Tag": "initial apicid",
+                        "Value": "21"
+                    },
+                    {
+                        "Tag": "fpu",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "fpu_exception",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "cpuid level",
+                        "Value": "11"
+                    },
+                    {
+                        "Tag": "wp",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "flags",
+                        "Value": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 sse4_2 popcnt lahf_lm ida dtherm tpr_shadow vnmi flexpriority ept vpid"
+                    },
+                    {
+                        "Tag": "clflush size",
+                        "Value": "64"
+                    },
+                    {
+                        "Tag": "cache_alignment",
+                        "Value": "64"
+                    },
+                    {
+                        "Tag": "address sizes",
+                        "Value": "40 bits physical, 48 bits virtual"
+                    },
+                    {
+                        "Tag": "power management",
+                        "Value": ""
+                    }
+                ]
+            },
+            {
+                "Category": "cpuinfo",
+                "Details": [
+                    {
+                        "Tag": "processor",
+                        "Value": "7"
+                    },
+                    {
+                        "Tag": "vendor_id",
+                        "Value": "GenuineIntel"
+                    },
+                    {
+                        "Tag": "cpu family",
+                        "Value": "6"
+                    },
+                    {
+                        "Tag": "model",
+                        "Value": "26"
+                    },
+                    {
+                        "Tag": "model name",
+                        "Value": "Intel(R) Xeon(R) CPU           E5520  @ 2.27GHz"
+                    },
+                    {
+                        "Tag": "stepping",
+                        "Value": "5"
+                    },
+                    {
+                        "Tag": "microcode",
+                        "Value": "0x19"
+                    },
+                    {
+                        "Tag": "cache size",
+                        "Value": "8192 KB"
+                    },
+                    {
+                        "Tag": "physical id",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "siblings",
+                        "Value": "8"
+                    },
+                    {
+                        "Tag": "core id",
+                        "Value": "3"
+                    },
+                    {
+                        "Tag": "cpu cores",
+                        "Value": "4"
+                    },
+                    {
+                        "Tag": "apicid",
+                        "Value": "23"
+                    },
+                    {
+                        "Tag": "initial apicid",
+                        "Value": "23"
+                    },
+                    {
+                        "Tag": "fpu",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "fpu_exception",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "cpuid level",
+                        "Value": "11"
+                    },
+                    {
+                        "Tag": "wp",
+                        "Value": "yes"
+                    },
+                    {
+                        "Tag": "flags",
+                        "Value": "fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 sse4_2 popcnt lahf_lm ida dtherm tpr_shadow vnmi flexpriority ept vpid"
+                    },
+                    {
+                        "Tag": "clflush size",
+                        "Value": "64"
+                    },
+                    {
+                        "Tag": "cache_alignment",
+                        "Value": "64"
+                    },
+                    {
+                        "Tag": "address sizes",
+                        "Value": "40 bits physical, 48 bits virtual"
+                    },
+                    {
+                        "Tag": "power management",
+                        "Value": ""
+                    }
+                ]
+            },
+            {
+                "Category": "kernel",
+                "Details": [
+                    {
+                        "Tag": "hostname",
+                        "Value": "r610-4"
+                    }
+                ]
+            }
+        ]
+    },
+    "sysinfo.smbios": {
+        "Entries": [
+            {
+                "Category": "BIOS Information",
+                "Details": [
+                    {
+                        "Tag": "Vendor",
+                        "Value": "Dell Inc."
+                    },
+                    {
+                        "Tag": "Version",
+                        "Value": "6.4.0"
+                    },
+                    {
+                        "Tag": "Release Date",
+                        "Value": "07/23/2013"
+                    },
+                    {
+                        "Tag": "Address",
+                        "Value": "0xF0000"
+                    },
+                    {
+                        "Tag": "Runtime Size",
+                        "Value": "64 kB"
+                    },
+                    {
+                        "Tag": "ROM Size",
+                        "Value": "4096 kB"
+                    },
+                    {
+                        "Tag": "Characteristics",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "BIOS Revision",
+                        "Value": "6.4"
+                    }
+                ]
+            },
+            {
+                "Category": "System Information",
+                "Details": [
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": "Dell Inc."
+                    },
+                    {
+                        "Tag": "Product Name",
+                        "Value": "PowerEdge R610"
+                    },
+                    {
+                        "Tag": "Version",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": "7KSTKN1"
+                    },
+                    {
+                        "Tag": "UUID",
+                        "Value": "4C4C4544-004B-5310-8054-B7C04F4B4E31"
+                    },
+                    {
+                        "Tag": "Wake-up Type",
+                        "Value": "Power Switch"
+                    },
+                    {
+                        "Tag": "SKU Number",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Family",
+                        "Value": "Not Specified"
+                    }
+                ]
+            },
+            {
+                "Category": "Base Board Information",
+                "Details": [
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": "Dell Inc."
+                    },
+                    {
+                        "Tag": "Product Name",
+                        "Value": "0F0XJ6"
+                    },
+                    {
+                        "Tag": "Version",
+                        "Value": "A02"
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": "..CN7016308O0119."
+                    },
+                    {
+                        "Tag": "Asset Tag",
+                        "Value": "Not Specified"
+                    }
+                ]
+            },
+            {
+                "Category": "Chassis Information",
+                "Details": [
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": "Dell Inc."
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "Rack Mount Chassis"
+                    },
+                    {
+                        "Tag": "Lock",
+                        "Value": "Present"
+                    },
+                    {
+                        "Tag": "Version",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": "7KSTKN1"
+                    },
+                    {
+                        "Tag": "Asset Tag",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Boot-up State",
+                        "Value": "Safe"
+                    },
+                    {
+                        "Tag": "Power Supply State",
+                        "Value": "Safe"
+                    },
+                    {
+                        "Tag": "Thermal State",
+                        "Value": "Safe"
+                    },
+                    {
+                        "Tag": "Security Status",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "OEM Information",
+                        "Value": "0x00000000"
+                    },
+                    {
+                        "Tag": "Height",
+                        "Value": "1 U"
+                    },
+                    {
+                        "Tag": "Number Of Power Cords",
+                        "Value": "Unspecified"
+                    },
+                    {
+                        "Tag": "Contained Elements",
+                        "Value": "0"
+                    }
+                ]
+            },
+            {
+                "Category": "Processor Information",
+                "Details": [
+                    {
+                        "Tag": "Socket Designation",
+                        "Value": "CPU1"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "Central Processor"
+                    },
+                    {
+                        "Tag": "Family",
+                        "Value": "Xeon"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": "Intel"
+                    },
+                    {
+                        "Tag": "ID",
+                        "Value": "A5 06 01 00 FF FB EB BF"
+                    },
+                    {
+                        "Tag": "Signature",
+                        "Value": "Type 0, Family 6, Model 26, Stepping 5"
+                    },
+                    {
+                        "Tag": "Flags",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Version",
+                        "Value": "Intel(R) Xeon(R) CPU           E5520  @ 2.27GHz"
+                    },
+                    {
+                        "Tag": "Voltage",
+                        "Value": "1.2 V"
+                    },
+                    {
+                        "Tag": "External Clock",
+                        "Value": "5860 MHz"
+                    },
+                    {
+                        "Tag": "Max Speed",
+                        "Value": "3600 MHz"
+                    },
+                    {
+                        "Tag": "Current Speed",
+                        "Value": "2266 MHz"
+                    },
+                    {
+                        "Tag": "Status",
+                        "Value": "Populated, Enabled"
+                    },
+                    {
+                        "Tag": "Upgrade",
+                        "Value": "Socket LGA1366"
+                    },
+                    {
+                        "Tag": "L1 Cache Handle",
+                        "Value": "0x0700"
+                    },
+                    {
+                        "Tag": "L2 Cache Handle",
+                        "Value": "0x0701"
+                    },
+                    {
+                        "Tag": "L3 Cache Handle",
+                        "Value": "0x0702"
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Asset Tag",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Part Number",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Core Count",
+                        "Value": "4"
+                    },
+                    {
+                        "Tag": "Core Enabled",
+                        "Value": "4"
+                    },
+                    {
+                        "Tag": "Thread Count",
+                        "Value": "8"
+                    },
+                    {
+                        "Tag": "Characteristics",
+                        "Value": ""
+                    }
+                ]
+            },
+            {
+                "Category": "Processor Information",
+                "Details": [
+                    {
+                        "Tag": "Socket Designation",
+                        "Value": "CPU2"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "Central Processor"
+                    },
+                    {
+                        "Tag": "Family",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": "Intel"
+                    },
+                    {
+                        "Tag": "ID",
+                        "Value": "00 00 00 00 00 00 00 00"
+                    },
+                    {
+                        "Tag": "Version",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Voltage",
+                        "Value": "1.2 V"
+                    },
+                    {
+                        "Tag": "External Clock",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Max Speed",
+                        "Value": "3600 MHz"
+                    },
+                    {
+                        "Tag": "Current Speed",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Status",
+                        "Value": "Unpopulated"
+                    },
+                    {
+                        "Tag": "Upgrade",
+                        "Value": "Socket LGA1366"
+                    },
+                    {
+                        "Tag": "L1 Cache Handle",
+                        "Value": "0x0703"
+                    },
+                    {
+                        "Tag": "L2 Cache Handle",
+                        "Value": "0x0704"
+                    },
+                    {
+                        "Tag": "L3 Cache Handle",
+                        "Value": "0x0705"
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Asset Tag",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Part Number",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Characteristics",
+                        "Value": ""
+                    }
+                ]
+            },
+            {
+                "Category": "Cache Information",
+                "Details": [
+                    {
+                        "Tag": "Socket Designation",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Configuration",
+                        "Value": "Enabled, Not Socketed, Level 1"
+                    },
+                    {
+                        "Tag": "Operational Mode",
+                        "Value": "Write Back"
+                    },
+                    {
+                        "Tag": "Location",
+                        "Value": "Internal"
+                    },
+                    {
+                        "Tag": "Installed Size",
+                        "Value": "128 kB"
+                    },
+                    {
+                        "Tag": "Maximum Size",
+                        "Value": "128 kB"
+                    },
+                    {
+                        "Tag": "Supported SRAM Types",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Installed SRAM Type",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Speed",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Error Correction Type",
+                        "Value": "Single-bit ECC"
+                    },
+                    {
+                        "Tag": "System Type",
+                        "Value": "Data"
+                    },
+                    {
+                        "Tag": "Associativity",
+                        "Value": "8-way Set-associative"
+                    }
+                ]
+            },
+            {
+                "Category": "Cache Information",
+                "Details": [
+                    {
+                        "Tag": "Socket Designation",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Configuration",
+                        "Value": "Enabled, Not Socketed, Level 2"
+                    },
+                    {
+                        "Tag": "Operational Mode",
+                        "Value": "Write Back"
+                    },
+                    {
+                        "Tag": "Location",
+                        "Value": "Internal"
+                    },
+                    {
+                        "Tag": "Installed Size",
+                        "Value": "1024 kB"
+                    },
+                    {
+                        "Tag": "Maximum Size",
+                        "Value": "2048 kB"
+                    },
+                    {
+                        "Tag": "Supported SRAM Types",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Installed SRAM Type",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Speed",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Error Correction Type",
+                        "Value": "Single-bit ECC"
+                    },
+                    {
+                        "Tag": "System Type",
+                        "Value": "Unified"
+                    },
+                    {
+                        "Tag": "Associativity",
+                        "Value": "8-way Set-associative"
+                    }
+                ]
+            },
+            {
+                "Category": "Cache Information",
+                "Details": [
+                    {
+                        "Tag": "Socket Designation",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Configuration",
+                        "Value": "Enabled, Not Socketed, Level 3"
+                    },
+                    {
+                        "Tag": "Operational Mode",
+                        "Value": "Write Back"
+                    },
+                    {
+                        "Tag": "Location",
+                        "Value": "Internal"
+                    },
+                    {
+                        "Tag": "Installed Size",
+                        "Value": "8192 kB"
+                    },
+                    {
+                        "Tag": "Maximum Size",
+                        "Value": "8192 kB"
+                    },
+                    {
+                        "Tag": "Supported SRAM Types",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Installed SRAM Type",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Speed",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Error Correction Type",
+                        "Value": "Single-bit ECC"
+                    },
+                    {
+                        "Tag": "System Type",
+                        "Value": "Unified"
+                    },
+                    {
+                        "Tag": "Associativity",
+                        "Value": "16-way Set-associative"
+                    }
+                ]
+            },
+            {
+                "Category": "Cache Information",
+                "Details": [
+                    {
+                        "Tag": "Socket Designation",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Configuration",
+                        "Value": "Enabled, Not Socketed, Level 1"
+                    },
+                    {
+                        "Tag": "Operational Mode",
+                        "Value": "Write Back"
+                    },
+                    {
+                        "Tag": "Location",
+                        "Value": "Internal"
+                    },
+                    {
+                        "Tag": "Installed Size",
+                        "Value": "0 kB"
+                    },
+                    {
+                        "Tag": "Maximum Size",
+                        "Value": "16 kB"
+                    },
+                    {
+                        "Tag": "Supported SRAM Types",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Installed SRAM Type",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Speed",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Error Correction Type",
+                        "Value": "Parity"
+                    },
+                    {
+                        "Tag": "System Type",
+                        "Value": "Data"
+                    },
+                    {
+                        "Tag": "Associativity",
+                        "Value": "<OUT OF SPEC>"
+                    }
+                ]
+            },
+            {
+                "Category": "Cache Information",
+                "Details": [
+                    {
+                        "Tag": "Socket Designation",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Configuration",
+                        "Value": "Enabled, Not Socketed, Level 2"
+                    },
+                    {
+                        "Tag": "Operational Mode",
+                        "Value": "Write Back"
+                    },
+                    {
+                        "Tag": "Location",
+                        "Value": "Internal"
+                    },
+                    {
+                        "Tag": "Installed Size",
+                        "Value": "0 kB"
+                    },
+                    {
+                        "Tag": "Maximum Size",
+                        "Value": "2048 kB"
+                    },
+                    {
+                        "Tag": "Supported SRAM Types",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Installed SRAM Type",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Speed",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Error Correction Type",
+                        "Value": "Single-bit ECC"
+                    },
+                    {
+                        "Tag": "System Type",
+                        "Value": "Unified"
+                    },
+                    {
+                        "Tag": "Associativity",
+                        "Value": "<OUT OF SPEC>"
+                    }
+                ]
+            },
+            {
+                "Category": "Cache Information",
+                "Details": [
+                    {
+                        "Tag": "Socket Designation",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Configuration",
+                        "Value": "Enabled, Not Socketed, Level 3"
+                    },
+                    {
+                        "Tag": "Operational Mode",
+                        "Value": "Write Back"
+                    },
+                    {
+                        "Tag": "Location",
+                        "Value": "Internal"
+                    },
+                    {
+                        "Tag": "Installed Size",
+                        "Value": "0 kB"
+                    },
+                    {
+                        "Tag": "Maximum Size",
+                        "Value": "0 kB"
+                    },
+                    {
+                        "Tag": "Supported SRAM Types",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Installed SRAM Type",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Speed",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Error Correction Type",
+                        "Value": "Single-bit ECC"
+                    },
+                    {
+                        "Tag": "System Type",
+                        "Value": "Unified"
+                    },
+                    {
+                        "Tag": "Associativity",
+                        "Value": "<OUT OF SPEC>"
+                    }
+                ]
+            },
+            {
+                "Category": "Port Connector Information",
+                "Details": [
+                    {
+                        "Tag": "Internal Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Internal Connector Type",
+                        "Value": "None"
+                    },
+                    {
+                        "Tag": "External Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "External Connector Type",
+                        "Value": "DB-15 female"
+                    },
+                    {
+                        "Tag": "Port Type",
+                        "Value": "Video Port"
+                    }
+                ]
+            },
+            {
+                "Category": "Port Connector Information",
+                "Details": [
+                    {
+                        "Tag": "Internal Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Internal Connector Type",
+                        "Value": "None"
+                    },
+                    {
+                        "Tag": "External Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "External Connector Type",
+                        "Value": "DB-15 female"
+                    },
+                    {
+                        "Tag": "Port Type",
+                        "Value": "Video Port"
+                    }
+                ]
+            },
+            {
+                "Category": "Port Connector Information",
+                "Details": [
+                    {
+                        "Tag": "Internal Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Internal Connector Type",
+                        "Value": "None"
+                    },
+                    {
+                        "Tag": "External Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "External Connector Type",
+                        "Value": "Access Bus (USB)"
+                    },
+                    {
+                        "Tag": "Port Type",
+                        "Value": "USB"
+                    }
+                ]
+            },
+            {
+                "Category": "Port Connector Information",
+                "Details": [
+                    {
+                        "Tag": "Internal Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Internal Connector Type",
+                        "Value": "None"
+                    },
+                    {
+                        "Tag": "External Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "External Connector Type",
+                        "Value": "Access Bus (USB)"
+                    },
+                    {
+                        "Tag": "Port Type",
+                        "Value": "USB"
+                    }
+                ]
+            },
+            {
+                "Category": "Inactive",
+                "Details": []
+            },
+            {
+                "Category": "Inactive",
+                "Details": []
+            },
+            {
+                "Category": "Inactive",
+                "Details": []
+            },
+            {
+                "Category": "Inactive",
+                "Details": []
+            },
+            {
+                "Category": "Port Connector Information",
+                "Details": [
+                    {
+                        "Tag": "Internal Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Internal Connector Type",
+                        "Value": "None"
+                    },
+                    {
+                        "Tag": "External Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "External Connector Type",
+                        "Value": "Access Bus (USB)"
+                    },
+                    {
+                        "Tag": "Port Type",
+                        "Value": "USB"
+                    }
+                ]
+            },
+            {
+                "Category": "Port Connector Information",
+                "Details": [
+                    {
+                        "Tag": "Internal Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Internal Connector Type",
+                        "Value": "None"
+                    },
+                    {
+                        "Tag": "External Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "External Connector Type",
+                        "Value": "Access Bus (USB)"
+                    },
+                    {
+                        "Tag": "Port Type",
+                        "Value": "USB"
+                    }
+                ]
+            },
+            {
+                "Category": "Port Connector Information",
+                "Details": [
+                    {
+                        "Tag": "Internal Reference Designator",
+                        "Value": "INT_USB"
+                    },
+                    {
+                        "Tag": "Internal Connector Type",
+                        "Value": "Access Bus (USB)"
+                    },
+                    {
+                        "Tag": "External Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "External Connector Type",
+                        "Value": "None"
+                    },
+                    {
+                        "Tag": "Port Type",
+                        "Value": "USB"
+                    }
+                ]
+            },
+            {
+                "Category": "Port Connector Information",
+                "Details": [
+                    {
+                        "Tag": "Internal Reference Designator",
+                        "Value": "INT_SD"
+                    },
+                    {
+                        "Tag": "Internal Connector Type",
+                        "Value": "Other"
+                    },
+                    {
+                        "Tag": "External Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "External Connector Type",
+                        "Value": "None"
+                    },
+                    {
+                        "Tag": "Port Type",
+                        "Value": "USB"
+                    }
+                ]
+            },
+            {
+                "Category": "Inactive",
+                "Details": []
+            },
+            {
+                "Category": "Inactive",
+                "Details": []
+            },
+            {
+                "Category": "Port Connector Information",
+                "Details": [
+                    {
+                        "Tag": "Internal Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Internal Connector Type",
+                        "Value": "None"
+                    },
+                    {
+                        "Tag": "External Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "External Connector Type",
+                        "Value": "RJ-45"
+                    },
+                    {
+                        "Tag": "Port Type",
+                        "Value": "Network Port"
+                    }
+                ]
+            },
+            {
+                "Category": "Port Connector Information",
+                "Details": [
+                    {
+                        "Tag": "Internal Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Internal Connector Type",
+                        "Value": "None"
+                    },
+                    {
+                        "Tag": "External Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "External Connector Type",
+                        "Value": "RJ-45"
+                    },
+                    {
+                        "Tag": "Port Type",
+                        "Value": "Network Port"
+                    }
+                ]
+            },
+            {
+                "Category": "Port Connector Information",
+                "Details": [
+                    {
+                        "Tag": "Internal Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Internal Connector Type",
+                        "Value": "None"
+                    },
+                    {
+                        "Tag": "External Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "External Connector Type",
+                        "Value": "RJ-45"
+                    },
+                    {
+                        "Tag": "Port Type",
+                        "Value": "Network Port"
+                    }
+                ]
+            },
+            {
+                "Category": "Port Connector Information",
+                "Details": [
+                    {
+                        "Tag": "Internal Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Internal Connector Type",
+                        "Value": "None"
+                    },
+                    {
+                        "Tag": "External Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "External Connector Type",
+                        "Value": "RJ-45"
+                    },
+                    {
+                        "Tag": "Port Type",
+                        "Value": "Network Port"
+                    }
+                ]
+            },
+            {
+                "Category": "Port Connector Information",
+                "Details": [
+                    {
+                        "Tag": "Internal Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Internal Connector Type",
+                        "Value": "None"
+                    },
+                    {
+                        "Tag": "External Reference Designator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "External Connector Type",
+                        "Value": "DB-9 male"
+                    },
+                    {
+                        "Tag": "Port Type",
+                        "Value": "Serial Port 16550A Compatible"
+                    }
+                ]
+            },
+            {
+                "Category": "System Slot Information",
+                "Details": [
+                    {
+                        "Tag": "Designation",
+                        "Value": "PCI1"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "x8 PCI Express 2"
+                    },
+                    {
+                        "Tag": "Current Usage",
+                        "Value": "Available"
+                    },
+                    {
+                        "Tag": "Length",
+                        "Value": "Long"
+                    },
+                    {
+                        "Tag": "ID",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "Characteristics",
+                        "Value": ""
+                    }
+                ]
+            },
+            {
+                "Category": "System Slot Information",
+                "Details": [
+                    {
+                        "Tag": "Designation",
+                        "Value": "PCI2"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "x8 PCI Express 2"
+                    },
+                    {
+                        "Tag": "Current Usage",
+                        "Value": "Available"
+                    },
+                    {
+                        "Tag": "Length",
+                        "Value": "Long"
+                    },
+                    {
+                        "Tag": "ID",
+                        "Value": "2"
+                    },
+                    {
+                        "Tag": "Characteristics",
+                        "Value": ""
+                    }
+                ]
+            },
+            {
+                "Category": "Inactive",
+                "Details": []
+            },
+            {
+                "Category": "Inactive",
+                "Details": []
+            },
+            {
+                "Category": "Inactive",
+                "Details": []
+            },
+            {
+                "Category": "On Board Device 6 Information",
+                "Details": [
+                    {
+                        "Tag": "Type",
+                        "Value": "Video"
+                    },
+                    {
+                        "Tag": "Status",
+                        "Value": "Enabled"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "Embedded Matrox G200 Video"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "Ethernet"
+                    },
+                    {
+                        "Tag": "Status",
+                        "Value": "Enabled"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "Embedded Broadcom 5709C NIC 1"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "Ethernet"
+                    },
+                    {
+                        "Tag": "Status",
+                        "Value": "Enabled"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "Embedded Broadcom 5709C NIC 2"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "Ethernet"
+                    },
+                    {
+                        "Tag": "Status",
+                        "Value": "Enabled"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "Embedded Broadcom 5709C NIC 3"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "Ethernet"
+                    },
+                    {
+                        "Tag": "Status",
+                        "Value": "Enabled"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "Embedded Broadcom 5709C NIC 4"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "SAS Controller"
+                    },
+                    {
+                        "Tag": "Status",
+                        "Value": "Enabled"
+                    },
+                    {
+                        "Tag": "Description",
+                        "Value": "Integrated RAID Controller"
+                    }
+                ]
+            },
+            {
+                "Category": "Inactive",
+                "Details": []
+            },
+            {
+                "Category": "OEM Strings",
+                "Details": [
+                    {
+                        "Tag": "String 1",
+                        "Value": "Dell System"
+                    },
+                    {
+                        "Tag": "String 2",
+                        "Value": "5[0000]"
+                    }
+                ]
+            },
+            {
+                "Category": "Inactive",
+                "Details": []
+            },
+            {
+                "Category": "System Configuration Options",
+                "Details": [
+                    {
+                        "Tag": "Option 1",
+                        "Value": "NVRAM_CLR:  Clear user settable NVRAM areas and set defaults"
+                    },
+                    {
+                        "Tag": "Option 2",
+                        "Value": "PWRD_EN:  Close to enable password"
+                    }
+                ]
+            },
+            {
+                "Category": "BIOS Language Information",
+                "Details": [
+                    {
+                        "Tag": "Language Description Format",
+                        "Value": "Long"
+                    },
+                    {
+                        "Tag": "Installable Languages",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "Currently Installed Language",
+                        "Value": "en|US|iso8859-1"
+                    }
+                ]
+            },
+            {
+                "Category": "Physical Memory Array",
+                "Details": [
+                    {
+                        "Tag": "Location",
+                        "Value": "System Board Or Motherboard"
+                    },
+                    {
+                        "Tag": "Use",
+                        "Value": "System Memory"
+                    },
+                    {
+                        "Tag": "Error Correction Type",
+                        "Value": "Multi-bit ECC"
+                    },
+                    {
+                        "Tag": "Maximum Capacity",
+                        "Value": "192 GB"
+                    },
+                    {
+                        "Tag": "Error Information Handle",
+                        "Value": "Not Provided"
+                    },
+                    {
+                        "Tag": "Number Of Devices",
+                        "Value": "12"
+                    }
+                ]
+            },
+            {
+                "Category": "Memory Device",
+                "Details": [
+                    {
+                        "Tag": "Array Handle",
+                        "Value": "0x1000"
+                    },
+                    {
+                        "Tag": "Error Information Handle",
+                        "Value": "Not Provided"
+                    },
+                    {
+                        "Tag": "Total Width",
+                        "Value": "72 bits"
+                    },
+                    {
+                        "Tag": "Data Width",
+                        "Value": "64 bits"
+                    },
+                    {
+                        "Tag": "Size",
+                        "Value": "4096 MB"
+                    },
+                    {
+                        "Tag": "Form Factor",
+                        "Value": "DIMM"
+                    },
+                    {
+                        "Tag": "Set",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "Locator",
+                        "Value": "DIMM_A1"
+                    },
+                    {
+                        "Tag": "Bank Locator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "DDR3"
+                    },
+                    {
+                        "Tag": "Type Detail",
+                        "Value": "Synchronous Registered (Buffered)"
+                    },
+                    {
+                        "Tag": "Speed",
+                        "Value": "1066 MHz"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": "030B04B3830B"
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": "D8A00663"
+                    },
+                    {
+                        "Tag": "Asset Tag",
+                        "Value": "0D093603"
+                    },
+                    {
+                        "Tag": "Part Number",
+                        "Value": "NT4GC72B4NA1NL-BE"
+                    },
+                    {
+                        "Tag": "Rank",
+                        "Value": "2"
+                    }
+                ]
+            },
+            {
+                "Category": "Memory Device",
+                "Details": [
+                    {
+                        "Tag": "Array Handle",
+                        "Value": "0x1000"
+                    },
+                    {
+                        "Tag": "Error Information Handle",
+                        "Value": "Not Provided"
+                    },
+                    {
+                        "Tag": "Total Width",
+                        "Value": "72 bits"
+                    },
+                    {
+                        "Tag": "Data Width",
+                        "Value": "64 bits"
+                    },
+                    {
+                        "Tag": "Size",
+                        "Value": "4096 MB"
+                    },
+                    {
+                        "Tag": "Form Factor",
+                        "Value": "DIMM"
+                    },
+                    {
+                        "Tag": "Set",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "Locator",
+                        "Value": "DIMM_A2"
+                    },
+                    {
+                        "Tag": "Bank Locator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "DDR3"
+                    },
+                    {
+                        "Tag": "Type Detail",
+                        "Value": "Synchronous Registered (Buffered)"
+                    },
+                    {
+                        "Tag": "Speed",
+                        "Value": "1066 MHz"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": "030B04B3830B"
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": "C9A00662"
+                    },
+                    {
+                        "Tag": "Asset Tag",
+                        "Value": "0D093603"
+                    },
+                    {
+                        "Tag": "Part Number",
+                        "Value": "NT4GC72B4NA1NL-BE"
+                    },
+                    {
+                        "Tag": "Rank",
+                        "Value": "2"
+                    }
+                ]
+            },
+            {
+                "Category": "Memory Device",
+                "Details": [
+                    {
+                        "Tag": "Array Handle",
+                        "Value": "0x1000"
+                    },
+                    {
+                        "Tag": "Error Information Handle",
+                        "Value": "Not Provided"
+                    },
+                    {
+                        "Tag": "Total Width",
+                        "Value": "72 bits"
+                    },
+                    {
+                        "Tag": "Data Width",
+                        "Value": "64 bits"
+                    },
+                    {
+                        "Tag": "Size",
+                        "Value": "4096 MB"
+                    },
+                    {
+                        "Tag": "Form Factor",
+                        "Value": "DIMM"
+                    },
+                    {
+                        "Tag": "Set",
+                        "Value": "2"
+                    },
+                    {
+                        "Tag": "Locator",
+                        "Value": "DIMM_A3"
+                    },
+                    {
+                        "Tag": "Bank Locator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "DDR3"
+                    },
+                    {
+                        "Tag": "Type Detail",
+                        "Value": "Synchronous Registered (Buffered)"
+                    },
+                    {
+                        "Tag": "Speed",
+                        "Value": "1066 MHz"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": "030B04B3830B"
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": "E5A00662"
+                    },
+                    {
+                        "Tag": "Asset Tag",
+                        "Value": "0D093603"
+                    },
+                    {
+                        "Tag": "Part Number",
+                        "Value": "NT4GC72B4NA1NL-BE"
+                    },
+                    {
+                        "Tag": "Rank",
+                        "Value": "2"
+                    }
+                ]
+            },
+            {
+                "Category": "Memory Device",
+                "Details": [
+                    {
+                        "Tag": "Array Handle",
+                        "Value": "0x1000"
+                    },
+                    {
+                        "Tag": "Error Information Handle",
+                        "Value": "Not Provided"
+                    },
+                    {
+                        "Tag": "Total Width",
+                        "Value": "72 bits"
+                    },
+                    {
+                        "Tag": "Data Width",
+                        "Value": "64 bits"
+                    },
+                    {
+                        "Tag": "Size",
+                        "Value": "4096 MB"
+                    },
+                    {
+                        "Tag": "Form Factor",
+                        "Value": "DIMM"
+                    },
+                    {
+                        "Tag": "Set",
+                        "Value": "2"
+                    },
+                    {
+                        "Tag": "Locator",
+                        "Value": "DIMM_A4"
+                    },
+                    {
+                        "Tag": "Bank Locator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "DDR3"
+                    },
+                    {
+                        "Tag": "Type Detail",
+                        "Value": "Synchronous Registered (Buffered)"
+                    },
+                    {
+                        "Tag": "Speed",
+                        "Value": "1066 MHz"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": "030B04B3830B"
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": "89A20661"
+                    },
+                    {
+                        "Tag": "Asset Tag",
+                        "Value": "0D093603"
+                    },
+                    {
+                        "Tag": "Part Number",
+                        "Value": "NT4GC72B4NA1NL-BE"
+                    },
+                    {
+                        "Tag": "Rank",
+                        "Value": "2"
+                    }
+                ]
+            },
+            {
+                "Category": "Memory Device",
+                "Details": [
+                    {
+                        "Tag": "Array Handle",
+                        "Value": "0x1000"
+                    },
+                    {
+                        "Tag": "Error Information Handle",
+                        "Value": "Not Provided"
+                    },
+                    {
+                        "Tag": "Total Width",
+                        "Value": "72 bits"
+                    },
+                    {
+                        "Tag": "Data Width",
+                        "Value": "64 bits"
+                    },
+                    {
+                        "Tag": "Size",
+                        "Value": "4096 MB"
+                    },
+                    {
+                        "Tag": "Form Factor",
+                        "Value": "DIMM"
+                    },
+                    {
+                        "Tag": "Set",
+                        "Value": "3"
+                    },
+                    {
+                        "Tag": "Locator",
+                        "Value": "DIMM_A5"
+                    },
+                    {
+                        "Tag": "Bank Locator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "DDR3"
+                    },
+                    {
+                        "Tag": "Type Detail",
+                        "Value": "Synchronous Registered (Buffered)"
+                    },
+                    {
+                        "Tag": "Speed",
+                        "Value": "1066 MHz"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": "030B04B3830B"
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": "A09E0665"
+                    },
+                    {
+                        "Tag": "Asset Tag",
+                        "Value": "0D093603"
+                    },
+                    {
+                        "Tag": "Part Number",
+                        "Value": "NT4GC72B4NA1NL-BE"
+                    },
+                    {
+                        "Tag": "Rank",
+                        "Value": "2"
+                    }
+                ]
+            },
+            {
+                "Category": "Memory Device",
+                "Details": [
+                    {
+                        "Tag": "Array Handle",
+                        "Value": "0x1000"
+                    },
+                    {
+                        "Tag": "Error Information Handle",
+                        "Value": "Not Provided"
+                    },
+                    {
+                        "Tag": "Total Width",
+                        "Value": "72 bits"
+                    },
+                    {
+                        "Tag": "Data Width",
+                        "Value": "64 bits"
+                    },
+                    {
+                        "Tag": "Size",
+                        "Value": "4096 MB"
+                    },
+                    {
+                        "Tag": "Form Factor",
+                        "Value": "DIMM"
+                    },
+                    {
+                        "Tag": "Set",
+                        "Value": "3"
+                    },
+                    {
+                        "Tag": "Locator",
+                        "Value": "DIMM_A6"
+                    },
+                    {
+                        "Tag": "Bank Locator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "DDR3"
+                    },
+                    {
+                        "Tag": "Type Detail",
+                        "Value": "Synchronous Registered (Buffered)"
+                    },
+                    {
+                        "Tag": "Speed",
+                        "Value": "1066 MHz"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": "030B04B3830B"
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": "ADA10661"
+                    },
+                    {
+                        "Tag": "Asset Tag",
+                        "Value": "0D093603"
+                    },
+                    {
+                        "Tag": "Part Number",
+                        "Value": "NT4GC72B4NA1NL-BE"
+                    },
+                    {
+                        "Tag": "Rank",
+                        "Value": "2"
+                    }
+                ]
+            },
+            {
+                "Category": "Inactive",
+                "Details": []
+            },
+            {
+                "Category": "Inactive",
+                "Details": []
+            },
+            {
+                "Category": "Inactive",
+                "Details": []
+            },
+            {
+                "Category": "Memory Device",
+                "Details": [
+                    {
+                        "Tag": "Array Handle",
+                        "Value": "0x1000"
+                    },
+                    {
+                        "Tag": "Error Information Handle",
+                        "Value": "Not Provided"
+                    },
+                    {
+                        "Tag": "Total Width",
+                        "Value": "72 bits"
+                    },
+                    {
+                        "Tag": "Data Width",
+                        "Value": "64 bits"
+                    },
+                    {
+                        "Tag": "Size",
+                        "Value": "No Module Installed"
+                    },
+                    {
+                        "Tag": "Form Factor",
+                        "Value": "DIMM"
+                    },
+                    {
+                        "Tag": "Set",
+                        "Value": "5"
+                    },
+                    {
+                        "Tag": "Locator",
+                        "Value": "DIMM_B1"
+                    },
+                    {
+                        "Tag": "Bank Locator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "DDR3"
+                    },
+                    {
+                        "Tag": "Type Detail",
+                        "Value": "Synchronous"
+                    },
+                    {
+                        "Tag": "Speed",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Asset Tag",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Part Number",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Rank",
+                        "Value": "Unknown"
+                    }
+                ]
+            },
+            {
+                "Category": "Memory Device",
+                "Details": [
+                    {
+                        "Tag": "Array Handle",
+                        "Value": "0x1000"
+                    },
+                    {
+                        "Tag": "Error Information Handle",
+                        "Value": "Not Provided"
+                    },
+                    {
+                        "Tag": "Total Width",
+                        "Value": "72 bits"
+                    },
+                    {
+                        "Tag": "Data Width",
+                        "Value": "64 bits"
+                    },
+                    {
+                        "Tag": "Size",
+                        "Value": "No Module Installed"
+                    },
+                    {
+                        "Tag": "Form Factor",
+                        "Value": "DIMM"
+                    },
+                    {
+                        "Tag": "Set",
+                        "Value": "6"
+                    },
+                    {
+                        "Tag": "Locator",
+                        "Value": "DIMM_B2"
+                    },
+                    {
+                        "Tag": "Bank Locator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "DDR3"
+                    },
+                    {
+                        "Tag": "Type Detail",
+                        "Value": "Synchronous"
+                    },
+                    {
+                        "Tag": "Speed",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Asset Tag",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Part Number",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Rank",
+                        "Value": "Unknown"
+                    }
+                ]
+            },
+            {
+                "Category": "Memory Device",
+                "Details": [
+                    {
+                        "Tag": "Array Handle",
+                        "Value": "0x1000"
+                    },
+                    {
+                        "Tag": "Error Information Handle",
+                        "Value": "Not Provided"
+                    },
+                    {
+                        "Tag": "Total Width",
+                        "Value": "72 bits"
+                    },
+                    {
+                        "Tag": "Data Width",
+                        "Value": "64 bits"
+                    },
+                    {
+                        "Tag": "Size",
+                        "Value": "No Module Installed"
+                    },
+                    {
+                        "Tag": "Form Factor",
+                        "Value": "DIMM"
+                    },
+                    {
+                        "Tag": "Set",
+                        "Value": "6"
+                    },
+                    {
+                        "Tag": "Locator",
+                        "Value": "DIMM_B3"
+                    },
+                    {
+                        "Tag": "Bank Locator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "DDR3"
+                    },
+                    {
+                        "Tag": "Type Detail",
+                        "Value": "Synchronous"
+                    },
+                    {
+                        "Tag": "Speed",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Asset Tag",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Part Number",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Rank",
+                        "Value": "Unknown"
+                    }
+                ]
+            },
+            {
+                "Category": "Memory Device",
+                "Details": [
+                    {
+                        "Tag": "Array Handle",
+                        "Value": "0x1000"
+                    },
+                    {
+                        "Tag": "Error Information Handle",
+                        "Value": "Not Provided"
+                    },
+                    {
+                        "Tag": "Total Width",
+                        "Value": "72 bits"
+                    },
+                    {
+                        "Tag": "Data Width",
+                        "Value": "64 bits"
+                    },
+                    {
+                        "Tag": "Size",
+                        "Value": "No Module Installed"
+                    },
+                    {
+                        "Tag": "Form Factor",
+                        "Value": "DIMM"
+                    },
+                    {
+                        "Tag": "Set",
+                        "Value": "4"
+                    },
+                    {
+                        "Tag": "Locator",
+                        "Value": "DIMM_B4"
+                    },
+                    {
+                        "Tag": "Bank Locator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "DDR3"
+                    },
+                    {
+                        "Tag": "Type Detail",
+                        "Value": "Synchronous"
+                    },
+                    {
+                        "Tag": "Speed",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Asset Tag",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Part Number",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Rank",
+                        "Value": "Unknown"
+                    }
+                ]
+            },
+            {
+                "Category": "Memory Device",
+                "Details": [
+                    {
+                        "Tag": "Array Handle",
+                        "Value": "0x1000"
+                    },
+                    {
+                        "Tag": "Error Information Handle",
+                        "Value": "Not Provided"
+                    },
+                    {
+                        "Tag": "Total Width",
+                        "Value": "72 bits"
+                    },
+                    {
+                        "Tag": "Data Width",
+                        "Value": "64 bits"
+                    },
+                    {
+                        "Tag": "Size",
+                        "Value": "No Module Installed"
+                    },
+                    {
+                        "Tag": "Form Factor",
+                        "Value": "DIMM"
+                    },
+                    {
+                        "Tag": "Set",
+                        "Value": "5"
+                    },
+                    {
+                        "Tag": "Locator",
+                        "Value": "DIMM_B5"
+                    },
+                    {
+                        "Tag": "Bank Locator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "DDR3"
+                    },
+                    {
+                        "Tag": "Type Detail",
+                        "Value": "Synchronous"
+                    },
+                    {
+                        "Tag": "Speed",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Asset Tag",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Part Number",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Rank",
+                        "Value": "Unknown"
+                    }
+                ]
+            },
+            {
+                "Category": "Memory Device",
+                "Details": [
+                    {
+                        "Tag": "Array Handle",
+                        "Value": "0x1000"
+                    },
+                    {
+                        "Tag": "Error Information Handle",
+                        "Value": "Not Provided"
+                    },
+                    {
+                        "Tag": "Total Width",
+                        "Value": "72 bits"
+                    },
+                    {
+                        "Tag": "Data Width",
+                        "Value": "64 bits"
+                    },
+                    {
+                        "Tag": "Size",
+                        "Value": "No Module Installed"
+                    },
+                    {
+                        "Tag": "Form Factor",
+                        "Value": "DIMM"
+                    },
+                    {
+                        "Tag": "Set",
+                        "Value": "6"
+                    },
+                    {
+                        "Tag": "Locator",
+                        "Value": "DIMM_B6"
+                    },
+                    {
+                        "Tag": "Bank Locator",
+                        "Value": "Not Specified"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "DDR3"
+                    },
+                    {
+                        "Tag": "Type Detail",
+                        "Value": "Synchronous"
+                    },
+                    {
+                        "Tag": "Speed",
+                        "Value": "Unknown"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Serial Number",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Asset Tag",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Part Number",
+                        "Value": ""
+                    },
+                    {
+                        "Tag": "Rank",
+                        "Value": "Unknown"
+                    }
+                ]
+            },
+            {
+                "Category": "Inactive",
+                "Details": []
+            },
+            {
+                "Category": "Inactive",
+                "Details": []
+            },
+            {
+                "Category": "Inactive",
+                "Details": []
+            },
+            {
+                "Category": "Memory Array Mapped Address",
+                "Details": [
+                    {
+                        "Tag": "Starting Address",
+                        "Value": "0x00000000000"
+                    },
+                    {
+                        "Tag": "Ending Address",
+                        "Value": "0x000BFFFFFFF"
+                    },
+                    {
+                        "Tag": "Range Size",
+                        "Value": "3 GB"
+                    },
+                    {
+                        "Tag": "Physical Array Handle",
+                        "Value": "0x1000"
+                    },
+                    {
+                        "Tag": "Partition Width",
+                        "Value": "2"
+                    }
+                ]
+            },
+            {
+                "Category": "Memory Array Mapped Address",
+                "Details": [
+                    {
+                        "Tag": "Starting Address",
+                        "Value": "0x00100000000"
+                    },
+                    {
+                        "Tag": "Ending Address",
+                        "Value": "0x0063FFFFFFF"
+                    },
+                    {
+                        "Tag": "Range Size",
+                        "Value": "21 GB"
+                    },
+                    {
+                        "Tag": "Physical Array Handle",
+                        "Value": "0x1000"
+                    },
+                    {
+                        "Tag": "Partition Width",
+                        "Value": "2"
+                    }
+                ]
+            },
+            {
+                "Category": "System Boot Information",
+                "Details": [
+                    {
+                        "Tag": "Status",
+                        "Value": "No errors detected"
+                    }
+                ]
+            },
+            {
+                "Category": "IPMI Device Information",
+                "Details": [
+                    {
+                        "Tag": "Interface Type",
+                        "Value": "KCS (Keyboard Control Style)"
+                    },
+                    {
+                        "Tag": "Specification Version",
+                        "Value": "2.0"
+                    },
+                    {
+                        "Tag": "I2C Slave Address",
+                        "Value": "0x10"
+                    },
+                    {
+                        "Tag": "NV Storage Device",
+                        "Value": "Not Present"
+                    },
+                    {
+                        "Tag": "Base Address",
+                        "Value": "0x0000000000000CA8 (I/O)"
+                    },
+                    {
+                        "Tag": "Register Spacing",
+                        "Value": "32-bit Boundaries"
+                    }
+                ]
+            },
+            {
+                "Category": "Onboard Device",
+                "Details": [
+                    {
+                        "Tag": "Reference Designation",
+                        "Value": "Embedded NIC 1"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "Ethernet"
+                    },
+                    {
+                        "Tag": "Status",
+                        "Value": "Enabled"
+                    },
+                    {
+                        "Tag": "Type Instance",
+                        "Value": "1"
+                    },
+                    {
+                        "Tag": "Bus Address",
+                        "Value": "0000:01:00.0"
+                    }
+                ]
+            },
+            {
+                "Category": "Onboard Device",
+                "Details": [
+                    {
+                        "Tag": "Reference Designation",
+                        "Value": "Embedded NIC 2"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "Ethernet"
+                    },
+                    {
+                        "Tag": "Status",
+                        "Value": "Enabled"
+                    },
+                    {
+                        "Tag": "Type Instance",
+                        "Value": "2"
+                    },
+                    {
+                        "Tag": "Bus Address",
+                        "Value": "0000:01:00.1"
+                    }
+                ]
+            },
+            {
+                "Category": "Onboard Device",
+                "Details": [
+                    {
+                        "Tag": "Reference Designation",
+                        "Value": "Embedded NIC 3"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "Ethernet"
+                    },
+                    {
+                        "Tag": "Status",
+                        "Value": "Enabled"
+                    },
+                    {
+                        "Tag": "Type Instance",
+                        "Value": "3"
+                    },
+                    {
+                        "Tag": "Bus Address",
+                        "Value": "0000:02:00.0"
+                    }
+                ]
+            },
+            {
+                "Category": "Onboard Device",
+                "Details": [
+                    {
+                        "Tag": "Reference Designation",
+                        "Value": "Embedded NIC 4"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "Ethernet"
+                    },
+                    {
+                        "Tag": "Status",
+                        "Value": "Enabled"
+                    },
+                    {
+                        "Tag": "Type Instance",
+                        "Value": "4"
+                    },
+                    {
+                        "Tag": "Bus Address",
+                        "Value": "0000:02:00.1"
+                    }
+                ]
+            },
+            {
+                "Category": "Inactive",
+                "Details": []
+            },
+            {
+                "Category": "Onboard Device",
+                "Details": [
+                    {
+                        "Tag": "Reference Designation",
+                        "Value": "Integrated RAID"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "SAS Controller"
+                    },
+                    {
+                        "Tag": "Status",
+                        "Value": "Enabled"
+                    },
+                    {
+                        "Tag": "Type Instance",
+                        "Value": "4"
+                    },
+                    {
+                        "Tag": "Bus Address",
+                        "Value": "0000:03:00.0"
+                    }
+                ]
+            },
+            {
+                "Category": "Onboard Device",
+                "Details": [
+                    {
+                        "Tag": "Reference Designation",
+                        "Value": "Embedded Video"
+                    },
+                    {
+                        "Tag": "Type",
+                        "Value": "Video"
+                    },
+                    {
+                        "Tag": "Status",
+                        "Value": "Enabled"
+                    },
+                    {
+                        "Tag": "Type Instance",
+                        "Value": "4"
+                    },
+                    {
+                        "Tag": "Bus Address",
+                        "Value": "0000:06:03.0"
+                    }
+                ]
+            }
+        ],
+        "Version": "2.6"
+    },
+    "sysinfo.usb": {
+        "Entries": [
+            {
+                "Category": "Bus 002 Device 006",
+                "Details": [
+                    {
+                        "Tag": "ID",
+                        "Value": "0624:0249"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": "Avocent Corp. Virtual Keyboard/Mouse"
+                    }
+                ]
+            },
+            {
+                "Category": "Bus 002 Device 001",
+                "Details": [
+                    {
+                        "Tag": "ID",
+                        "Value": "1d6b:0002"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": "Linux Foundation 2.0 root hub"
+                    }
+                ]
+            },
+            {
+                "Category": "Bus 006 Device 001",
+                "Details": [
+                    {
+                        "Tag": "ID",
+                        "Value": "1d6b:0001"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": "Linux Foundation 1.1 root hub"
+                    }
+                ]
+            },
+            {
+                "Category": "Bus 005 Device 003",
+                "Details": [
+                    {
+                        "Tag": "ID",
+                        "Value": "0624:0248"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": "Avocent Corp. Virtual Hub"
+                    }
+                ]
+            },
+            {
+                "Category": "Bus 005 Device 001",
+                "Details": [
+                    {
+                        "Tag": "ID",
+                        "Value": "1d6b:0001"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": "Linux Foundation 1.1 root hub"
+                    }
+                ]
+            },
+            {
+                "Category": "Bus 001 Device 002",
+                "Details": [
+                    {
+                        "Tag": "ID",
+                        "Value": "0424:2514"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": "Standard Microsystems Corp. USB 2.0 Hub"
+                    }
+                ]
+            },
+            {
+                "Category": "Bus 001 Device 001",
+                "Details": [
+                    {
+                        "Tag": "ID",
+                        "Value": "1d6b:0002"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": "Linux Foundation 2.0 root hub"
+                    }
+                ]
+            },
+            {
+                "Category": "Bus 004 Device 001",
+                "Details": [
+                    {
+                        "Tag": "ID",
+                        "Value": "1d6b:0001"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": "Linux Foundation 1.1 root hub"
+                    }
+                ]
+            },
+            {
+                "Category": "Bus 003 Device 001",
+                "Details": [
+                    {
+                        "Tag": "ID",
+                        "Value": "1d6b:0001"
+                    },
+                    {
+                        "Tag": "Manufacturer",
+                        "Value": "Linux Foundation 1.1 root hub"
+                    }
+                ]
+            }
+        ]
+    }
+}

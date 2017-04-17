@@ -1,0 +1,47 @@
+#timestamp	MemTotal	MemFree	Buffers	Cached	SwapCached	Active	Inactive	Active(anon)	Inactive(anon)	Active(file)	Inactive(file)	Unevictable	Mlocked	SwapTotal	SwapFree	Dirty	Writeback	AnonPages	Mapped	Shmem	Slab	SReclaimable	SUnreclaim	KernelStack	PageTables	NFS_Unstable	Bounce	WritebackTmp	CommitLimit	Committed_AS	VmallocTotal	VmallocUsed	VmallocChunk	HardwareCorrupted	AnonHugePages	HugePages_Total	HugePages_Free	HugePages_Rsvd	HugePages_Surp	Hugepagesize	DirectMap4k	DirectMap2M
+#nodeid	d939ce8caa4af64a21cc23cc2a5fb931
+#metadata Active int The total amount of buffer or page cache memory, in kilobytes, that is in active use. This is memory that has been recently used and is usually not reclaimed for other purposes.
+#metadata Active(anon) int The amount of anonymous and tmpfs/shmem memory, in kibibytes, that is in active use, or was in active use since the last time the system moved something to swap.
+#metadata Active(file) int The amount of file cache memory, in kibibytes, that is in active use, or was in active use since the last time the system reclaimed memory.
+#metadata AnonHugePages int The total amount of memory, in kibibytes, used by huge pages that are not backed by files and are mapped into userspace page tables.
+#metadata AnonPages int The total amount of memory, in kibibytes, used by pages that are not backed by files and are mapped into userspace page tables.
+#metadata Bounce int The amount of memory, in kibibytes, used for the block device bounce buffers.
+#metadata Buffers int The amount of physical RAM, in kilobytes, used for file buffers.
+#metadata Cached int The amount of physical RAM, in kilobytes, used as cache memory.
+#metadata CommitLimit int This is the total amount of memory in kilobytes currently available to be allocated on the system.
+#metadata Committed_AS int The total amount of memory, in kilobytes, estimated to complete the workload. This value represents the worst case scenario value, and also includes swap memory.
+#metadata DirectMap2M int The amount of memory, in kibibytes, mapped into kernel address space with 2 MB page mappings.
+#metadata DirectMap4k int The amount of memory, in kibibytes, mapped into kernel address space with 4 kB page mappings.
+#metadata Dirty int The total amount of memory, in kilobytes, waiting to be written back to the disk.
+#metadata HardwareCorrupted int The amount of memory, in kibibytes, with physical memory corruption problems, identified by the hardware and set aside by the kernel so it does not get used.
+#metadata HugePages_Free int The total number of hugepages available for the system. This statistic only appears on the x86, Itanium, and AMD64 architectures.
+#metadata HugePages_Rsvd int The number of unused huge pages reserved for hugetlbfs.
+#metadata HugePages_Surp int The number of surplus huge pages.
+#metadata HugePages_Total int The total number of hugepages for the system. The number is derived by dividing Hugepagesize by the megabytes set aside for hugepages specified in /proc/sys/vm/hugetlb_pool. This statistic only appears on the x86, Itanium, and AMD64 architectures.
+#metadata Hugepagesize int The size for each hugepages unit in kilobytes. By default, the value is 4096 KB on uniprocessor kernels for 32 bit architectures. For SMP, hugemem kernels, and AMD64, the default is 2048 KB. For Itanium architectures, the default is 262144 KB. This statistic only appears on the x86, Itanium, and aMD64 architectures.
+#metadata Inactive int The total amount of buffer or page cache memory, in kilobytes, that are free and available. This is memory that has not been recently used and can be reclaimed for other purposes.
+#metadata Inactive(anon) int The amount of anonymous and tmpfs/shmem memory, in kibibytes, that is a candidate for eviction.
+#metadata Inactive(file) int The amount of file cache memory, in kibibytes, that is newly loaded from the disk, or is a candidate for reclaiming.
+#metadata KernelStack int The amount of memory, in kibibytes, used by the kernel stack allocations done for each task in the system.
+#metadata Mapped int The total amount of memory, in kilobytes, which have been used to map devices, files, or libraries using the mmap command.
+#metadata MemFree int The amount of physical RAM, in kilobytes, left unused by the system.
+#metadata MemTotal int Total amount of physical RAM, in kilobytes.
+#metadata Mlocked int The total amount of memory, in kibibytes, that is not evictable because it is locked into memory by user programs.
+#metadata NFS_Unstable int The amount, in kibibytes, of NFS pages sent to the server but not yet committed to the stable storage.
+#metadata PageTables int The total amount of memory, in kilobytes, dedicated to the lowest page table level.
+#metadata SReclaimable int The part of Slab that can be reclaimed, such as caches.
+#metadata SUnreclaim int The part of Slab that cannot be reclaimed even when lacking memory.
+#metadata Shmem int The total amount of memory, in kibibytes, used by shared memory (shmem) and tmpfs.
+#metadata Slab int The total amount of memory, in kilobytes, used by the kernel to cache data structures for its own use.
+#metadata SwapCached int The amount of swap, in kilobytes, used as cache memory.
+#metadata SwapFree int The total amount of swap free, in kilobytes.
+#metadata SwapTotal int The total amount of swap available, in kilobytes.
+#metadata Unevictable int The amount of memory, in kibibytes, discovered by the pageout code, that is not evictable because it is locked into memory by user programs.
+#metadata VmallocChunk int The largest contiguous block of memory, in kilobytes, of available virtual address space.
+#metadata VmallocTotal int The total amount of memory, in kilobytes, of total allocated virtual address space.
+#metadata VmallocUsed int The total amount of memory, in kilobytes, of used virtual address space.
+#metadata Writeback int The total amount of memory, in kilobytes, actively being written back to the disk.
+#metadata WritebackTmp int The amount of memory, in kibibytes, used by FUSE for temporary writeback buffers.
+1492464347	24675980	22195256	207924	1713052	0	1168568	835516	90112	624	1078456	834892	65004	65004	1999868	1999868	68	0	150356	51088	1228	229648	189852	39796	2592	4256	0	0	0	14337856	611592	34359738367	323748	34359407780	0	67584	0	0	0	0	2048	73188	25079808
+1492464357	24675980	22188120	207936	1714080	0	1178036	835240	98264	624	1079772	834616	65004	65004	1999868	1999868	1020	0	156296	52460	1228	229628	189852	39776	2720	3996	0	0	0	14337856	711372	34359738367	323748	34359407780	0	69632	0	0	0	0	2048	73188	25079808
+1492464367	24675980	22187964	207936	1714112	0	1178080	835256	98292	624	1079788	834632	65004	65004	1999868	1999868	1052	0	156348	52468	1228	229628	189852	39776	2720	3996	0	0	0	14337856	690420	34359738367	323748	34359407780	0	69632	0	0	0	0	2048	73188	25079808
