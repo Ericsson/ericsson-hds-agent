@@ -81,7 +81,7 @@ sudo ./ericsson-hds-agent -destination tcp:192.0.2.0:9090 -frequency 30
 Collection Tools
 ----------------
 
-The agent uses the following Linux tools to collect inventory data from the host machine:
+The agent uses the following Linux commands to collect inventory data from the host machine:
 
  - `bmc-info` or `ipmitool`
  - `dmidecode`
